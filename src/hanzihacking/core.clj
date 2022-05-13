@@ -108,18 +108,29 @@
   (sort-by #(:freq (get (:entries %) 0)) (map #(hash-map :code (nth % 0)
                   :entries (nth % 1)) (group-by #(:code %) zhengmaOnlyLongest))))
 
-(println (count zhengmaOnlyLongCollectedByFreq))
-(println (take 10 zhengmaOnlyLongCollectedByFreq))
-(println (count zhengmaOnlyLongCollectedByCode))
-(println (take 10 zhengmaOnlyLongCollectedByCode))
+;(println (count zhengmaOnlyLongCollectedByFreq))
+;(println (take 10 zhengmaOnlyLongCollectedByFreq))
+(def strListZhengma
+  (clojure.string/join "\n"
+                       (vec
+                         (map #(clojure.string/join " " [(.toString (:freq %)) (:char %) (:code %)])
+                              (flatten
+                                (map #(:entries %) zhengmaOnlyLongCollectedByFreq))))))
+
+(println (count strListZhengma))
+(println (take 10 strListZhengma))
+(spit "zhenmaTzai13060noSpace.txt" strListZhengma)
+
+;(println (count zhengmaOnlyLongCollectedByCode))
+;(println (take 10 zhengmaOnlyLongCollectedByCode))
 
 (def collisions (sort-by #(:freq (get (:entries %) 0)) (filter #(< 1 (count (:entries %))) zhengmaOnlyLongCollectedByCode)))
-(println (count collisions))
-(println (take 10 collisions))
+;(println (count collisions))
+;(println (take 10 collisions))
 
 ;;;;;;;;;;clojure print unicode
 (def testOutput (clojure.string/replace (.toString collisions) #"entries" "\n"))
-(spit "flubber2tzai13060.txt" testOutput)
+;(spit "flubber2tzai13060.txt" testOutput)
 
 
 
