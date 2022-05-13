@@ -1,0 +1,1064 @@
+({:
+ [{:freq 11, :code "ji", :char "中"} {:freq 667, :code "ji", :char "足"}], :code "ji"} {:
+ [{:freq 25, :code "nboy", :char "學"} {:freq 2840, :code "nboy", :char "釁"} {:freq 12314, :code "nboy", :char "鼢"}], :code "nboy"} {:
+ [{:freq 34, :code "sojr", :char "說"} {:freq 4929, :code "sojr", :char "袞"} {:freq 5289, :code "sojr", :char "兗"}], :code "sojr"} {:
+ [{:freq 36, :code "nyi", :char "他"} {:freq 7238, :code "nyi", :char "伄"}], :code "nyi"} {:
+ [{:freq 55, :code "zizi", :char "出"} {:freq 3605, :code "zizi", :char "艸"}], :code "zizi"} {:
+ [{:freq 63, :code "ya", :char "子"} {:freq 2892, :code "ya", :char "刁"} {:freq 4799, :code "ya", :char "孑"}], :code "ya"} {:
+ [{:freq 66, :code "wdgq", :char "家"} {:freq 4507, :code "wdgq", :char "宥"}], :code "wdgq"} {:
+ [{:freq 69, :code "jo", :char "只"} {:freq 69, :code "jo", :char "只"}], :code "jo"} {:
+ [{:freq 71, :code "maj", :char "知"} {:freq 9469, :code "maj", :char "笴"}], :code "maj"} {:
+ [{:freq 76, :code "ns", :char "信"} {:freq 76, :code "ns", :char "信"}], :code "ns"} {:
+ [{:freq 83, :code "vbzs", :char "法"} {:freq 8839, :code "vbzs", :char "沄"}], :code "vbzs"} {:
+ [{:freq 98, :code "jd", :char "因"} {:freq 5941, :code "jd", :char "囗"}], :code "jd"} {:
+ [{:freq 99, :code "kf", :char "果"} {:freq 99, :code "kf", :char "果"}], :code "kf"} {:
+ [{:freq 109, :code "iirb", :char "些"} {:freq 10815, :code "iirb", :char "祡"}], :code "iirb"} {:
+ [{:freq 113, :code "iirr", :char "此"} {:freq 5080, :code "iirr", :char "鮆"}], :code "iirr"} {:
+ [{:freq 114, :code "jyia", :char "吧"} {:freq 4614, :code "jyia", :char "邑"}], :code "jyia"} {:
+ [{:freq 118, :code "oi", :char "行"} {:freq 5319, :code "oi", :char "彳"}], :code "oi"} {:
+ [{:freq 121, :code "rsj", :char "名"} {:freq 178, :code "rsj", :char "各"}], :code "rsj"} {:
+ [{:freq 126, :code "xdae", :char "開"} {:freq 9486, :code "xdae", :char "閈"}], :code "xdae"} {:
+ [{:freq 129, :code "wdzl", :char "實"} {:freq 628, :code "wdzl", :char "寶"}], :code "wdzl"} {:
+ [{:freq 135, :code "meby", :char "動"} {:freq 1230, :code "meby", :char "郵"}], :code "meby"} {:
+ [{:freq 140, :code "hmja", :char "或"} {:freq 4530, :code "hmja", :char "彧"}], :code "hmja"} {:
+ [{:freq 144, :code "mfkb", :char "種"} {:freq 6862, :code "mfkb", :char "穜"}], :code "mfkb"} {:
+ [{:freq 146, :code "fka", :char "車"} {:freq 614, :code "fka", :char "查"} {:freq 11374, :code "fka", :char "柦"}], :code "fka"} {:
+ [{:freq 152, :code "tdro", :char "次"} {:freq 12229, :code "tdro", :char "餈"}], :code "tdro"} {:
+ [{:freq 156, :code "gds", :char "太"} {:freq 2471, :code "gds", :char "犬"}], :code "gds"} {:
+ [{:freq 158, :code "boyy", :char "起"} {:freq 4857, :code "boyy", :char "趐"} {:freq 12543, :code "boyy", :char "塕"}], :code "boyy"} {:
+ [{:freq 165, :code "qdar", :char "鳳"} {:freq 3943, :code "qdar", :char "夙"}], :code "qdar"} {:
+ [{:freq 168, :code "nbol", :char "覺"} {:freq 12637, :code "nbol", :char "嶨"}], :code "nbol"} {:
+ [{:freq 171, :code "gdxs", :char "友"} {:freq 6144, :code "gdxs", :char "犮"}], :code "gdxs"} {:
+ [{:freq 172, :code "dm", :char "才"} {:freq 172, :code "dm", :char "才"}], :code "dm"} {:
+ [{:freq 175, :code "zmyi", :char "她"} {:freq 9472, :code "zmyi", :char "絁"}], :code "zmyi"} {:
+ [{:freq 205, :code "nejm", :char "做"} {:freq 5017, :code "nejm", :char "儆"}], :code "nejm"} {:
+ [{:freq 206, :code "kojl", :char "常"} {:freq 945, :code "kojl", :char "賞"}], :code "kojl"} {:
+ [{:freq 210, :code "fk", :char "東"} {:freq 4526, :code "fk", :char "杳"}], :code "fk"} {:
+ [{:freq 212, :code "rlym", :char "解"} {:freq 4624, :code "rlym", :char "觔"}], :code "rlym"} {:
+ [{:freq 220, :code "mbrd", :char "先"} {:freq 8072, :code "mbrd", :char "笎"}], :code "mbrd"} {:
+ [{:freq 222, :code "xslw", :char "通"} {:freq 4188, :code "xslw", :char "恿"} {:freq 6267, :code "xslw", :char "遹"}], :code "xslw"} {:
+ [{:freq 224, :code "zld", :char "網"} {:freq 1934, :code "zld", :char "綱"} {:freq 8944, :code "zld", :char "絅"} {:freq 11489, :code "zld", :char "絧"}], :code "zld"} {:
+ [{:freq 226, :code "ecq", :char "期"} {:freq 2216, :code "ecq", :char "菁"}], :code "ecq"} {:
+ [{:freq 237, :code "yybw", :char "選"} {:freq 4780, :code "yybw", :char "愍"}], :code "yybw"} {:
+ [{:freq 238, :code "fkoo", :char "較"} {:freq 1595, :code "fkoo", :char "輛"}], :code "fkoo"} {:
+ [{:freq 239, :code "kjzm", :char "數"} {:freq 4588, :code "kjzm", :char "婁"} {:freq 12186, :code "kjzm", :char "氀"}], :code "kjzm"} {:
+ [{:freq 242, :code "bkro", :char "場"} {:freq 3674, :code "bkro", :char "埸"}], :code "bkro"} {:
+ [{:freq 246, :code "ejnr", :char "歡"} {:freq 6346, :code "ejnr", :char "鸛"}], :code "ejnr"} {:
+ [{:freq 251, :code "odaj", :char "合"} {:freq 6725, :code "odaj", :char "樖"}], :code "odaj"} {:
+ [{:freq 253, :code "maiw", :char "怎"} {:freq 10075, :code "maiw", :char "迮"}], :code "maiw"} {:
+ [{:freq 259, :code "tgex", :char "度"} {:freq 7708, :code "tgex", :char "庋"} {:freq 8891, :code "tgex", :char "庪"}], :code "tgex"} {:
+ [{:freq 263, :code "bjuj", :char "喜"} {:freq 4912, :code "bjuj", :char "囍"}], :code "bjuj"} {:
+ [{:freq 267, :code "lklo", :char "買"} {:freq 11278, :code "lklo", :char "黰"}], :code "lklo"} {:
+ [{:freq 273, :code "syy", :char "記"} {:freq 10662, :code "syy", :char "邡"}], :code "syy"} {:
+ [{:freq 283, :code "uaku", :char "並"} {:freq 2459, :code "uaku", :char "煎"}], :code "uaku"} {:
+ [{:freq 304, :code "yfk", :char "陳"} {:freq 804, :code "yfk", :char "陣"}], :code "yfk"} {:
+ [{:freq 308, :code "drk", :char "指"} {:freq 6270, :code "drk", :char "擼"}], :code "drk"} {:
+ [{:freq 311, :code "my", :char "氣"} {:freq 6773, :code "my", :char "气"}], :code "my"} {:
+ [{:freq 312, :code "fj", :char "西"} {:freq 3175, :code "fj", :char "杏"} {:freq 10639, :code "fj", :char "襾"}], :code "fj"} {:
+ [{:freq 313, :code "shbi", :char "試"} {:freq 10989, :code "shbi", :char "誙"}], :code "shbi"} {:
+ [{:freq 320, :code "nmb", :char "任"} {:freq 377, :code "nmb", :char "件"}], :code "nmb"} {:
+ [{:freq 322, :code "jjke", :char "單"} {:freq 11009, :code "jjke", :char "嘽"}], :code "jjke"} {:
+ [{:freq 329, :code "pdxs", :char "反"} {:freq 10975, :code "pdxs", :char "瞂"}], :code "pdxs"} {:
+ [{:freq 331, :code "jjeh", :char "戰"} {:freq 8325, :code "jjeh", :char "囅"}], :code "jjeh"} {:
+ [{:freq 335, :code "oojy", :char "卻"} {:freq 3187, :code "oojy", :char "郤"}], :code "oojy"} {:
+ [{:freq 336, :code "tirr", :char "北"} {:freq 3004, :code "tirr", :char "疵"}], :code "tirr"} {:
+ [{:freq 345, :code "jlo", :char "員"} {:freq 4185, :code "jlo", :char "唄"}], :code "jlo"} {:
+ [{:freq 351, :code "fkjk", :char "檔"} {:freq 2424, :code "fkjk", :char "輻"} {:freq 9718, :code "fkjk", :char "輬"}], :code "fkjk"} {:
+ [{:freq 354, :code "zmrk", :char "妳"} {:freq 1031, :code "zmrk", :char "婚"}], :code "zmrk"} {:
+ [{:freq 367, :code "nfds", :char "傳"} {:freq 2219, :code "nfds", :char "傅"}], :code "nfds"} {:
+ [{:freq 369, :code "enrr", :char "花"} {:freq 11601, :code "enrr", :char "蓖"}], :code "enrr"} {:
+ [{:freq 392, :code "ffbk", :char "標"} {:freq 1177, :code "ffbk", :char "禁"} {:freq 11129, :code "ffbk", :char "檦"}], :code "ffbk"} {:
+ [{:freq 393, :code "vszn", :char "流"} {:freq 5678, :code "vszn", :char "灕"} {:freq 11084, :code "vszn", :char "澭"}], :code "vszn"} {:
+ [{:freq 394, :code "edxs", :char "支"} {:freq 10873, :code "edxs", :char "菝"}], :code "edxs"} {:
+ [{:freq 405, :code "yaj", :char "阿"} {:freq 648, :code "yaj", :char "司"}], :code "yaj"} {:
+ [{:freq 411, :code "odjy", :char "命"} {:freq 5469, :code "odjy", :char "郃"}], :code "odjy"} {:
+ [{:freq 417, :code "frj", :char "格"} {:freq 5381, :code "frj", :char "枸"}], :code "frj"} {:
+ [{:freq 427, :code "jym", :char "另"} {:freq 6335, :code "jym", :char "叻"}], :code "jym"} {:
+ [{:freq 436, :code "fjw", :char "速"} {:freq 3795, :code "fjw", :char "迺"}], :code "fjw"} {:
+ [{:freq 436, :code "wfj", :char "速"} {:freq 3795, :code "wfj", :char "迺"}], :code "wfj"} {:
+ [{:freq 449, :code "jjjj", :char "器"} {:freq 2248, :code "jjjj", :char "囂"} {:freq 6374, :code "jjjj", :char "嘂"} {:freq 9829, :code "jjjj", :char "嚚"}], :code "jjjj"} {:
+ [{:freq 452, :code "xbka", :char "畫"} {:freq 3234, :code "xbka", :char "晝"}], :code "xbka"} {:
+ [{:freq 456, :code "ucbi", :char "差"} {:freq 11298, :code "ucbi", :char "齹"}], :code "ucbi"} {:
+ [{:freq 464, :code "cuc", :char "班"} {:freq 11976, :code "cuc", :char "珜"}], :code "cuc"} {:
+ [{:freq 467, :code "mblk", :char "制"} {:freq 10564, :code "mblk", :char "劗"}], :code "mblk"} {:
+ [{:freq 478, :code "jini", :char "雖"} {:freq 8213, :code "jini", :char "踓"}], :code "jini"} {:
+ [{:freq 480, :code "wwfk", :char "運"} {:freq 499, :code "wwfk", :char "軍"}], :code "wwfk"} {:
+ [{:freq 481, :code "fya", :char "李"} {:freq 11338, :code "fya", :char "杍"}], :code "fya"} {:
+ [{:freq 484, :code "cuoo", :char "驗"} {:freq 2328, :code "cuoo", :char "駁"} {:freq 6637, :code "cuoo", :char "騋"} {:freq 9780, :code "cuoo", :char "駮"}], :code "cuoo"} {:
+ [{:freq 485, :code "edjm", :char "故"} {:freq 1676, :code "edjm", :char "韓"}], :code "edjm"} {:
+ [{:freq 512, :code "fjbk", :char "票"} {:freq 4226, :code "fjbk", :char "剽"}], :code "fjbk"} {:
+ [{:freq 522, :code "lkbu", :char "黑"} {:freq 4514, :code "lkbu", :char "睪"} {:freq 5573, :code "lkbu", :char "矘"}], :code "lkbu"} {:
+ [{:freq 532, :code "krod", :char "易"} {:freq 6781, :code "krod", :char "昒"}], :code "krod"} {:
+ [{:freq 534, :code "krjr", :char "晚"} {:freq 3468, :code "krjr", :char "冕"}], :code "krjr"} {:
+ [{:freq 536, :code "vzj", :char "治"} {:freq 6788, :code "vzj", :char "洳"}], :code "vzj"} {:
+ [{:freq 551, :code "ecz", :char "甚"} {:freq 7350, :code "ecz", :char "綦"}], :code "ecz"} {:
+ [{:freq 554, :code "fkro", :char "軟"} {:freq 720, :code "fkro", :char "楊"}], :code "fkro"} {:
+ [{:freq 557, :code "nirf", :char "條"} {:freq 10177, :code "nirf", :char "偨"}], :code "nirf"} {:
+ [{:freq 572, :code "sukr", :char "竟"} {:freq 2741, :code "sukr", :char "竭"} {:freq 6027, :code "sukr", :char "歆"}], :code "sukr"} {:
+ [{:freq 573, :code "xbul", :char "盡"} {:freq 12963, :code "xbul", :char "賮"}], :code "xbul"} {:
+ [{:freq 576, :code "jdjr", :char "園"} {:freq 4834, :code "jdjr", :char "圜"}], :code "jdjr"} {:
+ [{:freq 580, :code "vkq", :char "消"} {:freq 4772, :code "vkq", :char "渭"}], :code "vkq"} {:
+ [{:freq 583, :code "tgob", :char "座"} {:freq 8597, :code "tgob", :char "廛"} {:freq 10372, :code "tgob", :char "瘞"}], :code "tgob"} {:
+ [{:freq 586, :code "jiry", :char "跑"} {:freq 12219, :code "jiry", :char "踠"}], :code "jiry"} {:
+ [{:freq 589, :code "buqs", :char "執"} {:freq 11175, :code "buqs", :char "謺"}], :code "buqs"} {:
+ [{:freq 595, :code "fvbz", :char "雲"} {:freq 4246, :code "fvbz", :char "雩"}], :code "fvbz"} {:
+ [{:freq 599, :code "pdgo", :char "須"} {:freq 5121, :code "pdgo", :char "頎"}], :code "pdgo"} {:
+ [{:freq 617, :code "oxwy", :char "館"} {:freq 7882, :code "oxwy", :char "餑"}], :code "oxwy"} {:
+ [{:freq 618, :code "zsrw", :char "態"} {:freq 7306, :code "zsrw", :char "逡"}], :code "zsrw"} {:
+ [{:freq 629, :code "fkqm", :char "擊"} {:freq 3408, :code "fkqm", :char "轍"}], :code "fkqm"} {:
+ [{:freq 630, :code "nbob", :char "舉"} {:freq 5304, :code "nbob", :char "壆"}], :code "nbob"} {:
+ [{:freq 637, :code "fkhb", :char "輕"} {:freq 3861, :code "fkhb", :char "軾"} {:freq 5051, :code "fkhb", :char "輊"}], :code "fkhb"} {:
+ [{:freq 650, :code "uagw", :char "送"} {:freq 2577, :code "uagw", :char "遂"}], :code "uagw"} {:
+ [{:freq 657, :code "ytyn", :char "習"} {:freq 2984, :code "ytyn", :char "翟"}], :code "ytyn"} {:
+ [{:freq 659, :code "ahii", :char "武"} {:freq 9769, :code "ahii", :char "虣"}], :code "ahii"} {:
+ [{:freq 663, :code "edjr", :char "克"} {:freq 3624, :code "edjr", :char "兢"} {:freq 4931, :code "edjr", :char "鴣"}], :code "edjr"} {:
+ [{:freq 664, :code "nym", :char "仍"} {:freq 9316, :code "nym", :char "仂"}], :code "nym"} {:
+ [{:freq 671, :code "rz", :char "鳥"} {:freq 1388, :code "rz", :char "烏"}], :code "rz"} {:
+ [{:freq 676, :code "cejc", :char "聖"} {:freq 3612, :code "cejc", :char "瑾"}], :code "cejc"} {:
+ [{:freq 677, :code "bskr", :char "壞"} {:freq 688, :code "bskr", :char "境"}], :code "bskr"} {:
+ [{:freq 687, :code "sjag", :char "誤"} {:freq 2788, :code "sjag", :char "顫"}], :code "sjag"} {:
+ [{:freq 692, :code "ffxi", :char "楚"} {:freq 12973, :code "ffxi", :char "檚"}], :code "ffxi"} {:
+ [{:freq 693, :code "jial", :char "貴"} {:freq 9717, :code "jial", :char "踚"} {:freq 12344, :code "jial", :char "蹪"}], :code "jial"} {:
+ [{:freq 697, :code "sulw", :char "適"} {:freq 5076, :code "sulw", :char "戇"}], :code "sulw"} {:
+ [{:freq 728, :code "qmc", :char "狂"} {:freq 6243, :code "qmc", :char "胜"}], :code "qmc"} {:
+ [{:freq 730, :code "xmau", :char "群"} {:freq 8942, :code "xmau", :char "焄"}], :code "xmau"} {:
+ [{:freq 731, :code "symm", :char "族"} {:freq 3980, :code "symm", :char "旄"} {:freq 4928, :code "symm", :char "旌"}], :code "symm"} {:
+ [{:freq 737, :code "klzw", :char "遇"} {:freq 1951, :code "klzw", :char "愚"}], :code "klzw"} {:
+ [{:freq 743, :code "uojj", :char "營"} {:freq 6993, :code "uojj", :char "熰"} {:freq 12887, :code "uojj", :char "煰"}], :code "uojj"} {:
+ [{:freq 744, :code "zmbk", :char "妹"} {:freq 8491, :code "zmbk", :char "媗"} {:freq 8862, :code "zmbk", :char "姮"}], :code "zmbk"} {:
+ [{:freq 745, :code "tgxk", :char "康"} {:freq 8081, :code "tgxk", :char "剫"}], :code "tgxk"} {:
+ [{:freq 748, :code "ggmi", :char "歷"} {:freq 11323, :code "ggmi", :char "厏"}], :code "ggmi"} {:
+ [{:freq 755, :code "wtfb", :char "補"} {:freq 2817, :code "wtfb", :char "襟"} {:freq 12299, :code "wtfb", :char "褾"}], :code "wtfb"} {:
+ [{:freq 767, :code "xmaj", :char "君"} {:freq 5604, :code "xmaj", :char "屙"}], :code "xmaj"} {:
+ [{:freq 772, :code "skq", :char "謂"} {:freq 6100, :code "skq", :char "誚"}], :code "skq"} {:
+ [{:freq 777, :code "uofl", :char "爛"} {:freq 2660, :code "uofl", :char "煉"}], :code "uofl"} {:
+ [{:freq 782, :code "zigs", :char "狀"} {:freq 1002, :code "zigs", :char "獎"}], :code "zigs"} {:
+ [{:freq 793, :code "syaj", :char "詞"} {:freq 5473, :code "syaj", :char "旖"}], :code "syaj"} {:
+ [{:freq 798, :code "dry", :char "抱"} {:freq 2124, :code "dry", :char "抑"}], :code "dry"} {:
+ [{:freq 806, :code "wdbk", :char "宗"} {:freq 969, :code "wdbk", :char "宣"} {:freq 3893, :code "wdbk", :char "寐"}], :code "wdbk"} {:
+ [{:freq 808, :code "kikb", :char "壘"} {:freq 6566, :code "kikb", :char "壨"} {:freq 8181, :code "kikb", :char "畽"}], :code "kikb"} {:
+ [{:freq 812, :code "maed", :char "午"} {:freq 2446, :code "maed", :char "竿"}], :code "maed"} {:
+ [{:freq 824, :code "gdoo", :char "爽"} {:freq 1906, :code "gdoo", :char "夾"}], :code "gdoo"} {:
+ [{:freq 826, :code "oiqm", :char "微"} {:freq 1788, :code "oiqm", :char "徹"}], :code "oiqm"} {:
+ [{:freq 835, :code "zrj", :char "絡"} {:freq 6689, :code "zrj", :char "絇"}], :code "zrj"} {:
+ [{:freq 837, :code "zy", :char "母"} {:freq 6293, :code "zy", :char "毌"}], :code "zy"} {:
+ [{:freq 838, :code "odjk", :char "創"} {:freq 10152, :code "odjk", :char "畣"}], :code "odjk"} {:
+ [{:freq 847, :code "bub", :char "幸"} {:freq 8382, :code "bub", :char "坢"}], :code "bub"} {:
+ [{:freq 878, :code "ksjk", :char "景"} {:freq 4392, :code "ksjk", :char "晾"}], :code "ksjk"} {:
+ [{:freq 880, :code "gr", :char "尤"} {:freq 5865, :code "gr", :char "尢"}], :code "gr"} {:
+ [{:freq 897, :code "oojr", :char "欲"} {:freq 5160, :code "oojr", :char "鵒"}], :code "oojr"} {:
+ [{:freq 900, :code "ldoo", :char "肉"} {:freq 5541, :code "ldoo", :char "网"}], :code "ldoo"} {:
+ [{:freq 906, :code "odxj", :char "含"} {:freq 2187, :code "odxj", :char "倉"}], :code "odxj"} {:
+ [{:freq 917, :code "boae", :char "趕"} {:freq 8449, :code "boae", :char "赶"}], :code "boae"} {:
+ [{:freq 920, :code "wmld", :char "扁"} {:freq 8043, :code "wmld", :char "扃"}], :code "wmld"} {:
+ [{:freq 926, :code "uowf", :char "榮"} {:freq 4215, :code "uowf", :char "煇"} {:freq 7016, :code "uowf", :char "醟"} {:freq 9834, :code "uowf", :char "爃"}], :code "uowf"} {:
+ [{:freq 931, :code "ih", :char "虎"} {:freq 9324, :code "ih", :char "虍"}], :code "ih"} {:
+ [{:freq 934, :code "eezf", :char "葉"} {:freq 11185, :code "eezf", :char "鞢"}], :code "eezf"} {:
+ [{:freq 935, :code "nij", :char "售"} {:freq 1223, :code "nij", :char "佔"}], :code "nij"} {:
+ [{:freq 937, :code "oijm", :char "衛"} {:freq 6112, :code "oijm", :char "徫"}], :code "oijm"} {:
+ [{:freq 938, :code "symy", :char "施"} {:freq 7727, :code "symy", :char "斿"}], :code "symy"} {:
+ [{:freq 939, :code "prj", :char "銘"} {:freq 2885, :code "prj", :char "鉤"} {:freq 4536, :code "prj", :char "鉻"}], :code "prj"} {:
+ [{:freq 983, :code "zmxy", :char "努"} {:freq 3928, :code "zmxy", :char "弩"} {:freq 5356, :code "zmxy", :char "孥"}], :code "zmxy"} {:
+ [{:freq 985, :code "uaxr", :char "歉"} {:freq 5840, :code "uaxr", :char "鶼"}], :code "uaxr"} {:
+ [{:freq 988, :code "ksk", :char "暗"} {:freq 10057, :code "ksk", :char "昹"}], :code "ksk"} {:
+ [{:freq 990, :code "lkrr", :char "罷"} {:freq 8713, :code "lkrr", :char "黟"}], :code "lkrr"} {:
+ [{:freq 996, :code "edyy", :char "協"} {:freq 2024, :code "edyy", :char "翅"} {:freq 2231, :code "edyy", :char "翰"} {:freq 2353, :code "edyy", :char "勃"} {:freq 9843, :code "edyy", :char "翸"} {:freq 10120, :code "edyy", :char "郣"}], :code "edyy"} {:
+ [{:freq 1003, :code "vsmy", :char "游"} {:freq 12525, :code "vsmy", :char "湤"}], :code "vsmy"} {:
+ [{:freq 1023, :code "wwrd", :char "冠"} {:freq 10632, :code "wwrd", :char "冘"}], :code "wwrd"} {:
+ [{:freq 1025, :code "tgnr", :char "鷹"} {:freq 3177, :code "tgnr", :char "廈"}], :code "tgnr"} {:
+ [{:freq 1026, :code "xii", :char "蛋"} {:freq 2655, :code "xii", :char "疋"}], :code "xii"} {:
+ [{:freq 1027, :code "udfd", :char "尊"} {:freq 3616, :code "udfd", :char "酋"}], :code "udfd"} {:
+ [{:freq 1040, :code "xmlk", :char "層"} {:freq 1904, :code "xmlk", :char "刷"}], :code "xmlk"} {:
+ [{:freq 1048, :code "mbrl", :char "贊"} {:freq 12027, :code "mbrl", :char "觕"}], :code "mbrl"} {:
+ [{:freq 1054, :code "vuuo", :char "淡"} {:freq 10915, :code "vuuo", :char "溔"}], :code "vuuo"} {:
+ [{:freq 1061, :code "dszn", :char "擁"} {:freq 10584, :code "dszn", :char "攡"}], :code "dszn"} {:
+ [{:freq 1071, :code "xsmf", :char "柔"} {:freq 12548, :code "xsmf", :char "楘"}], :code "xsmf"} {:
+ [{:freq 1072, :code "vfbk", :char "漂"} {:freq 12859, :code "vfbk", :char "渿"}], :code "vfbk"} {:
+ [{:freq 1073, :code "wdjk", :char "富"} {:freq 1691, :code "wdjk", :char "割"}], :code "wdjk"} {:
+ [{:freq 1076, :code "xmsw", :char "避"} {:freq 11125, :code "xmsw", :char "憵"} {:freq 12760, :code "xmsw", :char "鼊"}], :code "xmsw"} {:
+ [{:freq 1083, :code "sulg", :char "端"} {:freq 7931, :code "sulg", :char "韺"}], :code "sulg"} {:
+ [{:freq 1084, :code "mfrr", :char "移"} {:freq 6941, :code "mfrr", :char "秕"}], :code "mfrr"} {:
+ [{:freq 1090, :code "dwfk", :char "揮"} {:freq 11579, :code "dwfk", :char "摙"}], :code "dwfk"} {:
+ [{:freq 1097, :code "odkw", :char "愈"} {:freq 2825, :code "odkw", :char "逾"}], :code "odkw"} {:
+ [{:freq 1099, :code "hx", :char "巨"} {:freq 1099, :code "hx", :char "巨"}], :code "hx"} {:
+ [{:freq 1106, :code "pyql", :char "盤"} {:freq 10908, :code "pyql", :char "幋"}], :code "pyql"} {:
+ [{:freq 1113, :code "nrlo", :char "貨"} {:freq 12493, :code "nrlo", :char "偩"}], :code "nrlo"} {:
+ [{:freq 1139, :code "ngoo", :char "俠"} {:freq 7322, :code "ngoo", :char "傸"}], :code "ngoo"} {:
+ [{:freq 1145, :code "cs", :char "玉"} {:freq 6495, :code "cs", :char "玊"}], :code "cs"} {:
+ [{:freq 1153, :code "ermf", :char "蘇"} {:freq 7995, :code "ermf", :char "檠"}], :code "ermf"} {:
+ [{:freq 1163, :code "dpf", :char "採"} {:freq 12833, :code "dpf", :char "梊"}], :code "dpf"} {:
+ [{:freq 1165, :code "xmrr", :char "尼"} {:freq 1409, :code "xmrr", :char "屁"} {:freq 2020, :code "xmrr", :char "屍"}], :code "xmrr"} {:
+ [{:freq 1173, :code "qmnx", :char "獲"} {:freq 7977, :code "qmnx", :char "玃"} {:freq 8542, :code "qmnx", :char "獀"}], :code "qmnx"} {:
+ [{:freq 1185, :code "aekd", :char "刊"} {:freq 2041, :code "aekd", :char "刑"}], :code "aekd"} {:
+ [{:freq 1187, :code "vfpd", :char "漸"} {:freq 4667, :code "vfpd", :char "淅"}], :code "vfpd"} {:
+ [{:freq 1188, :code "pld", :char "鋼"} {:freq 2284, :code "pld", :char "銅"}], :code "pld"} {:
+ [{:freq 1190, :code "vwgs", :char "淚"} {:freq 8434, :code "vwgs", :char "涋"} {:freq 11483, :code "vwgs", :char "湥"}], :code "vwgs"} {:
+ [{:freq 1193, :code "hjjr", :char "歐"} {:freq 2733, :code "hjjr", :char "鷗"}], :code "hjjr"} {:
+ [{:freq 1196, :code "odmw", :char "途"} {:freq 10796, :code "odmw", :char "悆"}], :code "odmw"} {:
+ [{:freq 1205, :code "fpd", :char "析"} {:freq 2015, :code "fpd", :char "杉"}], :code "fpd"} {:
+ [{:freq 1210, :code "jjgs", :char "哭"} {:freq 1609, :code "jjgs", :char "獸"}], :code "jjgs"} {:
+ [{:freq 1214, :code "mfxw", :char "穩"} {:freq 4298, :code "mfxw", :char "稔"}], :code "mfxw"} {:
+ [{:freq 1216, :code "srk", :char "詢"} {:freq 3632, :code "srk", :char "詣"} {:freq 11049, :code "srk", :char "諙"}], :code "srk"} {:
+ [{:freq 1236, :code "vmy", :char "汽"} {:freq 12104, :code "vmy", :char "滊"}], :code "vmy"} {:
+ [{:freq 1238, :code "symr", :char "旅"} {:freq 7974, :code "symr", :char "鷟"}], :code "symr"} {:
+ [{:freq 1250, :code "tgel", :char "席"} {:freq 11288, :code "tgel", :char "黂"}], :code "tgel"} {:
+ [{:freq 1255, :code "uofb", :char "煙"} {:freq 8200, :code "uofb", :char "熛"} {:freq 12502, :code "uofb", :char "烳"}], :code "uofb"} {:
+ [{:freq 1259, :code "drez", :char "搖"} {:freq 2747, :code "drez", :char "掏"}], :code "drez"} {:
+ [{:freq 1260, :code "zmsx", :char "娘"} {:freq 5742, :code "zmsx", :char "妗"}], :code "zmsx"} {:
+ [{:freq 1265, :code "fkwz", :char "惠"} {:freq 11529, :code "fkwz", :char "楒"}], :code "fkwz"} {:
+ [{:freq 1269, :code "yajl", :char "隔"} {:freq 10231, :code "yajl", :char "覗"}], :code "yajl"} {:
+ [{:freq 1270, :code "fcy", :char "椰"} {:freq 4478, :code "fcy", :char "梆"}], :code "fcy"} {:
+ [{:freq 1274, :code "wtkr", :char "複"} {:freq 3806, :code "wtkr", :char "褐"}], :code "wtkr"} {:
+ [{:freq 1288, :code "iikg", :char "頻"} {:freq 11272, :code "iikg", :char "顪"}], :code "iikg"} {:
+ [{:freq 1292, :code "fkpk", :char "暫"} {:freq 10529, :code "fkpk", :char "轓"}], :code "fkpk"} {:
+ [{:freq 1293, :code "nxma", :char "伊"} {:freq 1829, :code "nxma", :char "侯"}], :code "nxma"} {:
+ [{:freq 1295, :code "jirl", :char "嘴"} {:freq 6221, :code "jirl", :char "躦"}], :code "jirl"} {:
+ [{:freq 1296, :code "tgfk", :char "庫"} {:freq 3315, :code "tgfk", :char "靡"}], :code "tgfk"} {:
+ [{:freq 1303, :code "tgfm", :char "摩"} {:freq 4220, :code "tgfm", :char "麾"} {:freq 5242, :code "tgfm", :char "犘"} {:freq 7378, :code "tgfm", :char "穈"}], :code "tgfm"} {:
+ [{:freq 1305, :code "mfrk", :char "剩"} {:freq 3450, :code "mfrk", :char "稽"} {:freq 6088, :code "mfrk", :char "穭"}], :code "mfrk"} {:
+ [{:freq 1313, :code "ymii", :char "延"} {:freq 7856, :code "ymii", :char "蜑"}], :code "ymii"} {:
+ [{:freq 1321, :code "mfwm", :char "秘"} {:freq 7144, :code "mfwm", :char "馝"}], :code "mfwm"} {:
+ [{:freq 1348, :code "zmef", :char "媒"} {:freq 8961, :code "zmef", :char "媟"}], :code "zmef"} {:
+ [{:freq 1357, :code "qub", :char "胖"} {:freq 10247, :code "qub", :char "塍"}], :code "qub"} {:
+ [{:freq 1362, :code "vld", :char "洞"} {:freq 10094, :code "vld", :char "浻"} {:freq 11918, :code "vld", :char "泂"}], :code "vld"} {:
+ [{:freq 1363, :code "wdwx", :char "寢"} {:freq 5171, :code "wdwx", :char "寑"} {:freq 9558, :code "wdwx", :char "寖"}], :code "wdwx"} {:
+ [{:freq 1364, :code "bdnd", :char "井"} {:freq 6348, :code "bdnd", :char "亓"}], :code "bdnd"} {:
+ [{:freq 1377, :code "nkc", :char "皇"} {:freq 5651, :code "nkc", :char "俳"}], :code "nkc"} {:
+ [{:freq 1392, :code "choz", :char "鬆"} {:freq 7698, :code "choz", :char "鬣"}], :code "choz"} {:
+ [{:freq 1395, :code "jbno", :char "嚇"} {:freq 5120, :code "jbno", :char "哧"}], :code "jbno"} {:
+ [{:freq 1413, :code "lluq", :char "凱"} {:freq 7415, :code "lluq", :char "颽"}], :code "lluq"} {:
+ [{:freq 1425, :code "llwb", :char "崇"} {:freq 6046, :code "llwb", :char "崆"}], :code "llwb"} {:
+ [{:freq 1427, :code "gglz", :char "厲"} {:freq 4317, :code "gglz", :char "礪"}], :code "gglz"} {:
+ [{:freq 1447, :code "tgby", :char "庭"} {:freq 8429, :code "tgby", :char "庨"}], :code "tgby"} {:
+ [{:freq 1450, :code "ewfk", :char "蓮"} {:freq 3670, :code "ewfk", :char "葷"}], :code "ewfk"} {:
+ [{:freq 1451, :code "foor", :char "麥"} {:freq 12354, :code "foor", :char "鶆"}], :code "foor"} {:
+ [{:freq 1452, :code "ciy", :char "邦"} {:freq 6395, :code "ciy", :char "酆"}], :code "ciy"} {:
+ [{:freq 1455, :code "xdjr", :char "閱"} {:freq 11825, :code "xdjr", :char "闤"}], :code "xdjr"} {:
+ [{:freq 1468, :code "jikk", :char "踏"} {:freq 4812, :code "jikk", :char "蹧"}], :code "jikk"} {:
+ [{:freq 1473, :code "xdjj", :char "闆"} {:freq 4444, :code "xdjj", :char "閭"}], :code "xdjj"} {:
+ [{:freq 1478, :code "llae", :char "岸"} {:freq 4838, :code "llae", :char "岍"}], :code "llae"} {:
+ [{:freq 1488, :code "ad", :char "于"} {:freq 1488, :code "ad", :char "于"}], :code "ad"} {:
+ [{:freq 1507, :code "synk", :char "齋"} {:freq 2100, :code "synk", :char "劑"}], :code "synk"} {:
+ [{:freq 1509, :code "foxj", :char "槍"} {:freq 8091, :code "foxj", :char "梒"}], :code "foxj"} {:
+ [{:freq 1520, :code "qys", :char "丸"} {:freq 5642, :code "qys", :char "訄"} {:freq 8840, :code "qys", :char "肕"}], :code "qys"} {:
+ [{:freq 1522, :code "wrrs", :char "逸"} {:freq 12489, :code "wrrs", :char "迻"}], :code "wrrs"} {:
+ [{:freq 1523, :code "wtoj", :char "裕"} {:freq 12265, :code "wtoj", :char "褣"}], :code "wtoj"} {:
+ [{:freq 1528, :code "oxro", :char "飲"} {:freq 11732, :code "oxro", :char "餳"}], :code "oxro"} {:
+ [{:freq 1537, :code "and", :char "丌"} {:freq 2868, :code "and", :char "卅"}], :code "and"} {:
+ [{:freq 1541, :code "uazw", :char "慈"} {:freq 1928, :code "uazw", :char "逆"}], :code "uazw"} {:
+ [{:freq 1544, :code "ejny", :char "勸"} {:freq 6646, :code "ejny", :char "酄"}], :code "ejny"} {:
+ [{:freq 1559, :code "lksk", :char "罰"} {:freq 2687, :code "lksk", :char "黯"}], :code "lksk"} {:
+ [{:freq 1560, :code "pfki", :char "番"} {:freq 5070, :code "pfki", :char "鐳"} {:freq 5151, :code "pfki", :char "釉"}], :code "pfki"} {:
+ [{:freq 1571, :code "pday", :char "邱"} {:freq 6889, :code "pday", :char "卮"}], :code "pday"} {:
+ [{:freq 1572, :code "mfjr", :char "稅"} {:freq 5190, :code "mfjr", :char "簌"}], :code "mfjr"} {:
+ [{:freq 1574, :code "dps", :char "拆"} {:freq 1776, :code "dps", :char "誓"}], :code "dps"} {:
+ [{:freq 1577, :code "dmhd", :char "托"} {:freq 7240, :code "dmhd", :char "扥"}], :code "dmhd"} {:
+ [{:freq 1578, :code "zmej", :char "姑"} {:freq 7094, :code "zmej", :char "婟"}], :code "zmej"} {:
+ [{:freq 1590, :code "mfkm", :char "秒"} {:freq 4441, :code "mfkm", :char "犁"}], :code "mfkm"} {:
+ [{:freq 1593, :code "vji", :char "沖"} {:freq 12475, :code "vji", :char "浞"}], :code "vji"} {:
+ [{:freq 1599, :code "eb", :char "甘"} {:freq 9339, :code "eb", :char "芏"}], :code "eb"} {:
+ [{:freq 1605, :code "llju", :char "豈"} {:freq 11881, :code "llju", :char "嶝"}], :code "llju"} {:
+ [{:freq 1610, :code "zmbb", :char "娃"} {:freq 11427, :code "zmbb", :char "娾"}], :code "zmbb"} {:
+ [{:freq 1628, :code "ehni", :char "截"} {:freq 8235, :code "ehni", :char "蕥"}], :code "ehni"} {:
+ [{:freq 1630, :code "zmwl", :char "婦"} {:freq 11468, :code "zmwl", :char "媥"}], :code "zmwl"} {:
+ [{:freq 1633, :code "kvml", :char "幣"} {:freq 3870, :code "kvml", :char "瞥"}], :code "kvml"} {:
+ [{:freq 1635, :code "jji", :char "串"} {:freq 8887, :code "jji", :char "哫"}], :code "jji"} {:
+ [{:freq 1641, :code "mamz", :char "繁"} {:freq 2374, :code "mamz", :char "矮"}], :code "mamz"} {:
+ [{:freq 1657, :code "pfwz", :char "悉"} {:freq 8741, :code "pfwz", :char "鏸"}], :code "pfwz"} {:
+ [{:freq 1673, :code "vlbu", :char "澤"} {:freq 12930, :code "vlbu", :char "潶"}], :code "vlbu"} {:
+ [{:freq 1675, :code "eebb", :char "鞋"} {:freq 8772, :code "eebb", :char "蘳"}], :code "eebb"} {:
+ [{:freq 1684, :code "uomi", :char "炸"} {:freq 6822, :code "uomi", :char "烻"}], :code "uomi"} {:
+ [{:freq 1698, :code "fkae", :char "軒"} {:freq 2070, :code "fkae", :char "桿"}], :code "fkae"} {:
+ [{:freq 1713, :code "eacy", :char "勤"} {:freq 6233, :code "eacy", :char "鄞"}], :code "eacy"} {:
+ [{:freq 1726, :code "vkkg", :char "濃"} {:freq 5124, :code "vkkg", :char "灝"} {:freq 8146, :code "vkkg", :char "滉"}], :code "vkkg"} {:
+ [{:freq 1727, :code "vrj", :char "洛"} {:freq 6939, :code "vrj", :char "洺"} {:freq 10032, :code "vrj", :char "泃"}], :code "vrj"} {:
+ [{:freq 1732, :code "zmux", :char "嫌"} {:freq 12239, :code "zmux", :char "嬚"}], :code "zmux"} {:
+ [{:freq 1735, :code "prs", :char "釣"} {:freq 9817, :code "prs", :char "鍧"} {:freq 11461, :code "prs", :char "釸"}], :code "prs"} {:
+ [{:freq 1738, :code "yazw", :char "遜"} {:freq 7567, :code "yazw", :char "愻"}], :code "yazw"} {:
+ [{:freq 1747, :code "drs", :char "抵"} {:freq 10638, :code "drs", :char "扚"} {:freq 12046, :code "drs", :char "揈"}], :code "drs"} {:
+ [{:freq 1758, :code "vsk", :char "泳"} {:freq 8122, :code "vsk", :char "湆"}], :code "vsk"} {:
+ [{:freq 1759, :code "uoaj", :char "恰"} {:freq 11975, :code "uoaj", :char "烚"} {:freq 12106, :code "uoaj", :char "煘"}], :code "uoaj"} {:
+ [{:freq 1766, :code "gdnd", :char "奪"} {:freq 9996, :code "gdnd", :char "夼"}], :code "gdnd"} {:
+ [{:freq 1770, :code "jiro", :char "踢"} {:freq 4203, :code "jiro", :char "踼"}], :code "jiro"} {:
+ [{:freq 1779, :code "mfjl", :char "稿"} {:freq 6123, :code "mfjl", :char "穚"}], :code "mfjl"} {:
+ [{:freq 1781, :code "tgkk", :char "療"} {:freq 9256, :code "tgkk", :char "劘"}], :code "tgkk"} {:
+ [{:freq 1785, :code "fvry", :char "霧"} {:freq 4895, :code "fvry", :char "雹"}], :code "fvry"} {:
+ [{:freq 1810, :code "uory", :char "炮"} {:freq 8507, :code "uory", :char "焥"}], :code "uory"} {:
+ [{:freq 1832, :code "lijk", :char "幅"} {:freq 8596, :code "lijk", :char "幜"}], :code "lijk"} {:
+ [{:freq 1834, :code "mby", :char "廷"} {:freq 9521, :code "mby", :char "笻"} {:freq 12015, :code "mby", :char "筇"}], :code "mby"} {:
+ [{:freq 1839, :code "mfok", :char "黎"} {:freq 5292, :code "mfok", :char "黍"}], :code "mfok"} {:
+ [{:freq 1843, :code "fvmi", :char "靂"} {:freq 6654, :code "fvmi", :char "靋"}], :code "fvmi"} {:
+ [{:freq 1857, :code "wdkl", :char "賓"} {:freq 12387, :code "wdkl", :char "覾"}], :code "wdkl"} {:
+ [{:freq 1870, :code "nji", :char "仲"} {:freq 1882, :code "nji", :char "促"}], :code "nji"} {:
+ [{:freq 1872, :code "qyk", :char "旭"} {:freq 7241, :code "qyk", :char "旮"}], :code "qyk"} {:
+ [{:freq 1874, :code "rjrs", :char "兔"} {:freq 12430, :code "rjrs", :char "毚"}], :code "rjrs"} {:
+ [{:freq 1888, :code "py", :char "舟"} {:freq 10121, :code "py", :char "釕"}], :code "py"} {:
+ [{:freq 1891, :code "iezf", :char "蝶"} {:freq 6467, :code "iezf", :char "蠂"}], :code "iezf"} {:
+ [{:freq 1892, :code "oszr", :char "兇"} {:freq 12491, :code "oszr", :char "鬯"}], :code "oszr"} {:
+ [{:freq 1910, :code "ufmy", :char "鄰"} {:freq 11946, :code "ufmy", :char "籺"}], :code "ufmy"} {:
+ [{:freq 1911, :code "uojr", :char "悅"} {:freq 12463, :code "uojr", :char "炾"}], :code "uojr"} {:
+ [{:freq 1919, :code "wmyy", :char "扇"} {:freq 2605, :code "wmyy", :char "翩"} {:freq 10005, :code "wmyy", :char "戺"}], :code "wmyy"} {:
+ [{:freq 1927, :code "vkzm", :char "洩"} {:freq 10971, :code "vkzm", :char "漊"}], :code "vkzm"} {:
+ [{:freq 1935, :code "egjw", :char "惹"} {:freq 7337, :code "egjw", :char "逽"}], :code "egjw"} {:
+ [{:freq 1942, :code "lolk", :char "贈"} {:freq 8687, :code "lolk", :char "瞺"}], :code "lolk"} {:
+ [{:freq 1952, :code "oiai", :char "征"} {:freq 6025, :code "oiai", :char "徥"}], :code "oiai"} {:
+ [{:freq 1954, :code "sxq", :char "朗"} {:freq 11785, :code "sxq", :char "譋"}], :code "sxq"} {:
+ [{:freq 1955, :code "odmf", :char "余"} {:freq 3496, :code "odmf", :char "舖"}], :code "odmf"} {:
+ [{:freq 1957, :code "wske", :char "禪"} {:freq 9098, :code "wske", :char "遧"} {:freq 11714, :code "wske", :char "禫"}], :code "wske"} {:
+ [{:freq 2004, :code "ixxx", :char "蝦"} {:freq 8576, :code "ixxx", :char "蝃"}], :code "ixxx"} {:
+ [{:freq 2027, :code "tglk", :char "廁"} {:freq 11077, :code "tglk", :char "廥"}], :code "tglk"} {:
+ [{:freq 2032, :code "odjl", :char "盒"} {:freq 11155, :code "odjl", :char "龠"}], :code "odjl"} {:
+ [{:freq 2034, :code "unj", :char "愧"} {:freq 11934, :code "unj", :char "恦"}], :code "unj"} {:
+ [{:freq 2040, :code "njfb", :char "堡"} {:freq 8321, :code "njfb", :char "魒"}], :code "njfb"} {:
+ [{:freq 2046, :code "wufd", :char "遵"} {:freq 6618, :code "wufd", :char "遒"}], :code "wufd"} {:
+ [{:freq 2050, :code "vwfk", :char "渾"} {:freq 3589, :code "vwfk", :char "漣"}], :code "vwfk"} {:
+ [{:freq 2058, :code "cff", :char "琳"} {:freq 5135, :code "cff", :char "瑮"}], :code "cff"} {:
+ [{:freq 2060, :code "tgoo", :char "腐"} {:freq 12000, :code "tgoo", :char "庲"}], :code "tgoo"} {:
+ [{:freq 2080, :code "ezzz", :char "茲"} {:freq 8549, :code "ezzz", :char "葌"}], :code "ezzz"} {:
+ [{:freq 2086, :code "zmjq", :char "娟"} {:freq 8109, :code "zmjq", :char "媩"}], :code "zmjq"} {:
+ [{:freq 2093, :code "mfgl", :char "稀"} {:freq 7220, :code "mfgl", :char "嵇"}], :code "mfgl"} {:
+ [{:freq 2096, :code "mbb", :char "牡"} {:freq 10215, :code "mbb", :char "筀"}], :code "mbb"} {:
+ [{:freq 2112, :code "nkkg", :char "儂"} {:freq 9693, :code "nkkg", :char "皝"}], :code "nkkg"} {:
+ [{:freq 2128, :code "ekk", :char "曹"} {:freq 6070, :code "ekk", :char "菖"}], :code "ekk"} {:
+ [{:freq 2130, :code "qmkr", :char "腹"} {:freq 7377, :code "qmkr", :char "獦"} {:freq 8180, :code "qmkr", :char "獍"} {:freq 9513, :code "qmkr", :char "猲"}], :code "qmkr"} {:
+ [{:freq 2139, :code "ngj", :char "佑"} {:freq 10044, :code "ngj", :char "俖"}], :code "ngj"} {:
+ [{:freq 2147, :code "wdoy", :char "寡"} {:freq 8110, :code "wdoy", :char "寋"}], :code "wdoy"} {:
+ [{:freq 2167, :code "rrk", :char "旨"} {:freq 8681, :code "rrk", :char "鮨"}], :code "rrk"} {:
+ [{:freq 2168, :code "drj", :char "拘"} {:freq 8871, :code "drj", :char "挌"}], :code "drj"} {:
+ [{:freq 2172, :code "ssk", :char "詠"} {:freq 3982, :code "ssk", :char "諳"}], :code "ssk"} {:
+ [{:freq 2173, :code "kair", :char "匙"} {:freq 7960, :code "kair", :char "鶗"}], :code "kair"} {:
+ [{:freq 2177, :code "cuxg", :char "驟"} {:freq 8589, :code "cuxg", :char "駃"}], :code "cuxg"} {:
+ [{:freq 2192, :code "bfb", :char "埔"} {:freq 6692, :code "bfb", :char "堙"}], :code "bfb"} {:
+ [{:freq 2207, :code "llld", :char "崗"} {:freq 5819, :code "llld", :char "峒"}], :code "llld"} {:
+ [{:freq 2215, :code "zmby", :char "娜"} {:freq 9584, :code "zmby", :char "綎"} {:freq 11961, :code "zmby", :char "娗"}], :code "zmby"} {:
+ [{:freq 2229, :code "zmxl", :char "媚"} {:freq 4364, :code "zmxl", :char "帑"} {:freq 10304, :code "zmxl", :char "嫞"}], :code "zmxl"} {:
+ [{:freq 2232, :code "bbbg", :char "堯"} {:freq 11616, :code "bbbg", :char "墝"}], :code "bbbg"} {:
+ [{:freq 2233, :code "ihkl", :char "盧"} {:freq 4315, :code "ihkl", :char "覷"}], :code "ihkl"} {:
+ [{:freq 2241, :code "bzma", :char "埃"} {:freq 4988, :code "bzma", :char "毐"}], :code "bzma"} {:
+ [{:freq 2254, :code "mld", :char "筒"} {:freq 7062, :code "mld", :char "甪"}], :code "mld"} {:
+ [{:freq 2271, :code "jds", :char "吋"} {:freq 11394, :code "jds", :char "圁"}], :code "jds"} {:
+ [{:freq 2274, :code "zmjd", :char "姻"} {:freq 12280, :code "zmjd", :char "嬦"}], :code "zmjd"} {:
+ [{:freq 2277, :code "kry", :char "昂"} {:freq 5147, :code "kry", :char "曷"}], :code "kry"} {:
+ [{:freq 2296, :code "wdmh", :char "宅"} {:freq 7248, :code "wdmh", :char "宒"}], :code "wdmh"} {:
+ [{:freq 2300, :code "vff", :char "淋"} {:freq 6286, :code "vff", :char "溧"}], :code "vff"} {:
+ [{:freq 2303, :code "zmae", :char "奸"} {:freq 4181, :code "zmae", :char "妍"} {:freq 10132, :code "zmae", :char "婩"}], :code "zmae"} {:
+ [{:freq 2306, :code "nkjl", :char "償"} {:freq 6851, :code "nkjl", :char "皜"}], :code "nkjl"} {:
+ [{:freq 2308, :code "uokm", :char "炒"} {:freq 7815, :code "uokm", :char "煋"}], :code "uokm"} {:
+ [{:freq 2313, :code "oxmh", :char "餓"} {:freq 10176, :code "oxmh", :char "飥"}], :code "oxmh"} {:
+ [{:freq 2330, :code "vnd", :char "淵"} {:freq 12437, :code "vnd", :char "汌"}], :code "vnd"} {:
+ [{:freq 2331, :code "fkrr", :char "棍"} {:freq 6667, :code "fkrr", :char "輥"}], :code "fkrr"} {:
+ [{:freq 2344, :code "hrd", :char "匹"} {:freq 5204, :code "hrd", :char "旡"}], :code "hrd"} {:
+ [{:freq 2364, :code "sld", :char "詗"} {:freq 12570, :code "sld", :char "詷"}], :code "sld"} {:
+ [{:freq 2366, :code "qmkm", :char "猩"} {:freq 12479, :code "qmkm", :char "猀"}], :code "qmkm"} {:
+ [{:freq 2382, :code "hm", :char "戈"} {:freq 3451, :code "hm", :char "戊"}], :code "hm"} {:
+ [{:freq 2390, :code "prtd", :char "鈞"} {:freq 10293, :code "prtd", :char "鉖"}], :code "prtd"} {:
+ [{:freq 2397, :code "jiyw", :char "遣"} {:freq 8328, :code "jiyw", :char "躚"} {:freq 12922, :code "jiyw", :char "跽"}], :code "jiyw"} {:
+ [{:freq 2407, :code "ccwm", :char "瑟"} {:freq 8253, :code "ccwm", :char "璱"}], :code "ccwm"} {:
+ [{:freq 2413, :code "jsjy", :char "哼"} {:freq 5984, :code "jsjy", :char "啍"}], :code "jsjy"} {:
+ [{:freq 2415, :code "nbrr", :char "佬"} {:freq 12717, :code "nbrr", :char "鶂"}], :code "nbrr"} {:
+ [{:freq 2422, :code "zidf", :char "醬"} {:freq 3876, :code "zidf", :char "槳"}], :code "zidf"} {:
+ [{:freq 2426, :code "mfni", :char "稚"} {:freq 11266, :code "mfni", :char "籗"}], :code "mfni"} {:
+ [{:freq 2428, :code "ekgy", :char "募"} {:freq 10344, :code "ekgy", :char "鄚"}], :code "ekgy"} {:
+ [{:freq 2430, :code "pymb", :char "艇"} {:freq 6728, :code "pymb", :char "鋌"}], :code "pymb"} {:
+ [{:freq 2434, :code "cimw", :char "遨"} {:freq 5390, :code "cimw", :char "鼇"}], :code "cimw"} {:
+ [{:freq 2442, :code "cuor", :char "駿"} {:freq 8727, :code "cuor", :char "騣"}], :code "cuor"} {:
+ [{:freq 2449, :code "llaj", :char "崎"} {:freq 6017, :code "llaj", :char "峇"} {:freq 6060, :code "llaj", :char "峆"} {:freq 6196, :code "llaj", :char "嵅"} {:freq 6929, :code "llaj", :char "岢"}], :code "llaj"} {:
+ [{:freq 2482, :code "zmjl", :char "嬌"} {:freq 4559, :code "zmjl", :char "嫦"} {:freq 8866, :code "zmjl", :char "帤"} {:freq 10493, :code "zmjl", :char "繑"}], :code "zmjl"} {:
+ [{:freq 2483, :code "pkro", :char "錫"} {:freq 4954, :code "pkro", :char "鍚"}], :code "pkro"} {:
+ [{:freq 2488, :code "zmkk", :char "剝"} {:freq 4288, :code "zmkk", :char "娼"} {:freq 8196, :code "zmkk", :char "嫽"}], :code "zmkk"} {:
+ [{:freq 2499, :code "zszz", :char "絃"} {:freq 8511, :code "zszz", :char "絫"}], :code "zszz"} {:
+ [{:freq 2501, :code "fjf", :char "栗"} {:freq 6895, :code "fjf", :char "梱"}], :code "fjf"} {:
+ [{:freq 2502, :code "qmoo", :char "狹"} {:freq 3302, :code "qmoo", :char "狡"} {:freq 4700, :code "qmoo", :char "獼"} {:freq 8252, :code "qmoo", :char "獮"} {:freq 12253, :code "qmoo", :char "獫"}], :code "qmoo"} {:
+ [{:freq 2511, :code "cukl", :char "驢"} {:freq 9957, :code "cukl", :char "驞"}], :code "cukl"} {:
+ [{:freq 2518, :code "jiku", :char "噓"} {:freq 4759, :code "jiku", :char "蹼"}], :code "jiku"} {:
+ [{:freq 2520, :code "pqxb", :char "墾"} {:freq 11557, :code "pqxb", :char "貄"}], :code "pqxb"} {:
+ [{:freq 2531, :code "jjjf", :char "噪"} {:freq 10901, :code "jjjf", :char "喿"}], :code "jjjf"} {:
+ [{:freq 2533, :code "zfds", :char "縛"} {:freq 6551, :code "zfds", :char "縳"}], :code "zfds"} {:
+ [{:freq 2534, :code "kwfk", :char "暈"} {:freq 2911, :code "kwfk", :char "暉"}], :code "kwfk"} {:
+ [{:freq 2539, :code "lloo", :char "峽"} {:freq 6159, :code "lloo", :char "崍"} {:freq 9737, :code "lloo", :char "嶮"}], :code "lloo"} {:
+ [{:freq 2589, :code "zmzz", :char "姦"} {:freq 4393, :code "zmzz", :char "嬤"} {:freq 10131, :code "zmzz", :char "娹"} {:freq 12444, :code "zmzz", :char "妶"}], :code "zmzz"} {:
+ [{:freq 2612, :code "wdkz", :char "宴"} {:freq 12906, :code "wdkz", :char "寠"}], :code "wdkz"} {:
+ [{:freq 2614, :code "uozf", :char "爍"} {:freq 6831, :code "uozf", :char "煠"}], :code "uozf"} {:
+ [{:freq 2615, :code "vgs", :char "汰"} {:freq 6014, :code "vgs", :char "汱"} {:freq 6897, :code "vgs", :char "涿"}], :code "vgs"} {:
+ [{:freq 2636, :code "elzn", :char "蘿"} {:freq 10465, :code "elzn", :char "薡"}], :code "elzn"} {:
+ [{:freq 2648, :code "xmkz", :char "屢"} {:freq 6235, :code "xmkz", :char "屨"}], :code "xmkz"} {:
+ [{:freq 2649, :code "eaor", :char "歎"} {:freq 10601, :code "eaor", :char "鷬"}], :code "eaor"} {:
+ [{:freq 2653, :code "mfkf", :char "梨"} {:freq 5499, :code "mfkf", :char "稞"}], :code "mfkf"} {:
+ [{:freq 2674, :code "vfb", :char "浦"} {:freq 4421, :code "vfb", :char "湮"}], :code "vfb"} {:
+ [{:freq 2676, :code "yznd", :char "弗"} {:freq 11912, :code "yznd", :char "弣"}], :code "yznd"} {:
+ [{:freq 2684, :code "jnxm", :char "喉"} {:freq 3872, :code "jnxm", :char "咿"}], :code "jnxm"} {:
+ [{:freq 2685, :code "eh", :char "栽"} {:freq 9427, :code "eh", :char "茞"}], :code "eh"} {:
+ [{:freq 2692, :code "pynx", :char "艘"} {:freq 11856, :code "pynx", :char "艭"}], :code "pynx"} {:
+ [{:freq 2704, :code "qmkb", :char "狸"} {:freq 2821, :code "qmkb", :char "腫"} {:freq 5836, :code "qmkb", :char "獞"}], :code "qmkb"} {:
+ [{:freq 2707, :code "vali", :char "沛"} {:freq 12708, :code "vali", :char "瀜"}], :code "vali"} {:
+ [{:freq 2709, :code "jrtd", :char "咚"} {:freq 8834, :code "jrtd", :char "呁"}], :code "jrtd"} {:
+ [{:freq 2711, :code "zmkf", :char "彙"} {:freq 5854, :code "zmkf", :char "婐"}], :code "zmkf"} {:
+ [{:freq 2725, :code "pzrd", :char "鏘"} {:freq 10893, :code "pzrd", :char "鈗"}], :code "pzrd"} {:
+ [{:freq 2731, :code "uolg", :char "煥"} {:freq 5721, :code "uolg", :char "煐"} {:freq 10715, :code "uolg", :char "炴"} {:freq 12107, :code "uolg", :char "煓"}], :code "uolg"} {:
+ [{:freq 2732, :code "zmwm", :char "妒"} {:freq 10671, :code "zmwm", :char "妼"}], :code "zmwm"} {:
+ [{:freq 2757, :code "odjr", :char "鴿"} {:freq 6947, :code "odjr", :char "欱"} {:freq 7427, :code "odjr", :char "鶬"}], :code "odjr"} {:
+ [{:freq 2776, :code "llni", :char "崔"} {:freq 4388, :code "llni", :char "瞿"}], :code "llni"} {:
+ [{:freq 2778, :code "loll", :char "贖"} {:freq 4069, :code "loll", :char "贔"}], :code "loll"} {:
+ [{:freq 2785, :code "ehi", :char "芽"} {:freq 7800, :code "ehi", :char "蛓"}], :code "ehi"} {:
+ [{:freq 2796, :code "ufkb", :char "糧"} {:freq 9583, :code "ufkb", :char "粴"}], :code "ufkb"} {:
+ [{:freq 2803, :code "kvmr", :char "鱉"} {:freq 11844, :code "kvmr", :char "鷩"}], :code "kvmr"} {:
+ [{:freq 2825, :code "woqk", :char "逾"} {:freq 8183, :code "woqk", :char "窬"}], :code "woqk"} {:
+ [{:freq 2837, :code "jkq", :char "哨"} {:freq 4627, :code "jkq", :char "喟"}], :code "jkq"} {:
+ [{:freq 2854, :code "dhbi", :char "拭"} {:freq 5916, :code "dhbi", :char "挳"}], :code "dhbi"} {:
+ [{:freq 2855, :code "dkb", :char "捏"} {:freq 10090, :code "dkb", :char "捚"}], :code "dkb"} {:
+ [{:freq 2861, :code "uowr", :char "鶯"} {:freq 9791, :code "uowr", :char "燰"}], :code "uowr"} {:
+ [{:freq 2871, :code "uld", :char "惘"} {:freq 4424, :code "uld", :char "恫"}], :code "uld"} {:
+ [{:freq 2880, :code "wxkv", :char "逮"} {:freq 11503, :code "wxkv", :char "逯"}], :code "wxkv"} {:
+ [{:freq 2880, :code "xbkw", :char "逮"} {:freq 11503, :code "xbkw", :char "逯"}], :code "xbkw"} {:
+ [{:freq 2891, :code "vkb", :char "涅"} {:freq 4287, :code "vkb", :char "浬"}], :code "vkb"} {:
+ [{:freq 2904, :code "veyy", :char "瀚"} {:freq 4741, :code "veyy", :char "渤"}], :code "veyy"} {:
+ [{:freq 2907, :code "wozz", :char "窟"} {:freq 10768, :code "wozz", :char "窋"}], :code "wozz"} {:
+ [{:freq 2929, :code "wtfl", :char "襯"} {:freq 7434, :code "wtfl", :char "襴"} {:freq 11173, :code "wtfl", :char "襋"}], :code "wtfl"} {:
+ [{:freq 2933, :code "jrk", :char "嚕"} {:freq 9370, :code "jrk", :char "咰"}], :code "jrk"} {:
+ [{:freq 2937, :code "llor", :char "峻"} {:freq 3970, :code "llor", :char "崚"} {:freq 12853, :code "llor", :char "嵕"}], :code "llor"} {:
+ [{:freq 2950, :code "ezj", :char "茹"} {:freq 3214, :code "ezj", :char "苔"}], :code "ezj"} {:
+ [{:freq 2955, :code "uoka", :char "懺"} {:freq 11942, :code "uoka", :char "炟"}], :code "uoka"} {:
+ [{:freq 2960, :code "ffuo", :char "焚"} {:freq 9679, :code "ffuo", :char "槱"}], :code "ffuo"} {:
+ [{:freq 2974, :code "zmgy", :char "姨"} {:freq 5829, :code "zmgy", :char "姽"}], :code "zmgy"} {:
+ [{:freq 2985, :code "zsjw", :char "怠"} {:freq 5090, :code "zsjw", :char "迨"}], :code "zsjw"} {:
+ [{:freq 2989, :code "wdjr", :char "寰"} {:freq 11830, :code "wdjr", :char "鶷"}], :code "wdjr"} {:
+ [{:freq 2991, :code "cwbk", :char "瑄"} {:freq 3134, :code "cwbk", :char "琮"}], :code "cwbk"} {:
+ [{:freq 2994, :code "eeyi", :char "靶"} {:freq 10295, :code "eeyi", :char "靷"}], :code "eeyi"} {:
+ [{:freq 2997, :code "dfds", :char "搏"} {:freq 5400, :code "dfds", :char "摶"}], :code "dfds"} {:
+ [{:freq 3017, :code "jigy", :char "跪"} {:freq 4551, :code "jigy", :char "躑"} {:freq 8328, :code "jigy", :char "躚"} {:freq 10942, :code "jigy", :char "跠"}], :code "jigy"} {:
+ [{:freq 3040, :code "yzkk", :char "疆"} {:freq 4863, :code "yzkk", :char "彊"}], :code "yzkk"} {:
+ [{:freq 3049, :code "curj", :char "駱"} {:freq 3477, :code "curj", :char "駒"}], :code "curj"} {:
+ [{:freq 3067, :code "jio", :char "趴"} {:freq 5814, :code "jio", :char "嚙"}], :code "jio"} {:
+ [{:freq 3072, :code "dpro", :char "掀"} {:freq 8810, :code "dpro", :char "撳"}], :code "dpro"} {:
+ [{:freq 3075, :code "ydjy", :char "邵"} {:freq 3988, :code "ydjy", :char "劭"} {:freq 5563, :code "ydjy", :char "卲"}], :code "ydjy"} {:
+ [{:freq 3084, :code "erj", :char "苟"} {:freq 3803, :code "erj", :char "茗"} {:freq 6110, :code "erj", :char "茖"}], :code "erj"} {:
+ [{:freq 3085, :code "jgs", :char "吠"} {:freq 3097, :code "jgs", :char "啄"} {:freq 6296, :code "jgs", :char "呔"}], :code "jgs"} {:
+ [{:freq 3102, :code "vrs", :char "汐"} {:freq 7702, :code "vrs", :char "汋"} {:freq 7986, :code "vrs", :char "泜"} {:freq 10203, :code "vrs", :char "渹"}], :code "vrs"} {:
+ [{:freq 3108, :code "vyyb", :char "氾"} {:freq 5391, :code "vyyb", :char "汜"}], :code "vyyb"} {:
+ [{:freq 3112, :code "mfor", :char "稜"} {:freq 4443, :code "mfor", :char "稷"} {:freq 8510, :code "mfor", :char "稄"} {:freq 10979, :code "mfor", :char "稯"}], :code "mfor"} {:
+ [{:freq 3114, :code "vez", :char "湛"} {:freq 3686, :code "vez", :char "泄"} {:freq 10454, :code "vez", :char "濝"}], :code "vez"} {:
+ [{:freq 3136, :code "grs", :char "矽"} {:freq 4142, :code "grs", :char "砥"}], :code "grs"} {:
+ [{:freq 3142, :code "pwfk", :char "鏈"} {:freq 9184, :code "pwfk", :char "鍕"}], :code "pwfk"} {:
+ [{:freq 3162, :code "uoeo", :char "烘"} {:freq 9416, :code "uoeo", :char "烡"} {:freq 11669, :code "uoeo", :char "熼"}], :code "uoeo"} {:
+ [{:freq 3173, :code "fufd", :char "樽"} {:freq 12095, :code "fufd", :char "楢"}], :code "fufd"} {:
+ [{:freq 3174, :code "dym", :char "扔"} {:freq 10634, :code "dym", :char "扐"}], :code "dym"} {:
+ [{:freq 3180, :code "cund", :char "馴"} {:freq 6907, :code "cund", :char "駙"}], :code "cund"} {:
+ [{:freq 3181, :code "llbd", :char "峙"} {:freq 9501, :code "llbd", :char "崶"}], :code "llbd"} {:
+ [{:freq 3193, :code "efj", :char "茜"} {:freq 12507, :code "efj", :char "莕"}], :code "efj"} {:
+ [{:freq 3203, :code "nrj", :char "佫"} {:freq 6890, :code "nrj", :char "佝"}], :code "nrj"} {:
+ [{:freq 3242, :code "fkjr", :char "轅"} {:freq 5129, :code "fkjr", :char "輓"} {:freq 9246, :code "fkjr", :char "轘"} {:freq 11501, :code "fkjr", :char "軦"}], :code "fkjr"} {:
+ [{:freq 3243, :code "ukro", :char "惕"} {:freq 6815, :code "ukro", :char "愓"}], :code "ukro"} {:
+ [{:freq 3245, :code "kso", :char "旻"} {:freq 10025, :code "kso", :char "旼"}], :code "kso"} {:
+ [{:freq 3253, :code "ejj", :char "莒"} {:freq 6573, :code "ejj", :char "茴"}], :code "ejj"} {:
+ [{:freq 3258, :code "zmjm", :char "嫩"} {:freq 7740, :code "zmjm", :char "挐"}], :code "zmjm"} {:
+ [{:freq 3265, :code "llki", :char "岫"} {:freq 5269, :code "llki", :char "岬"}], :code "llki"} {:
+ [{:freq 3272, :code "jioo", :char "跤"} {:freq 4712, :code "jioo", :char "蹣"} {:freq 11820, :code "jioo", :char "躎"}], :code "jioo"} {:
+ [{:freq 3304, :code "jiwl", :char "蹄"} {:freq 4709, :code "jiwl", :char "蹛"} {:freq 7382, :code "jiwl", :char "蹁"}], :code "jiwl"} {:
+ [{:freq 3313, :code "uoro", :char "炊"} {:freq 5736, :code "uoro", :char "煬"}], :code "uoro"} {:
+ [{:freq 3320, :code "zmnx", :char "嫂"} {:freq 12734, :code "zmnx", :char "孇"}], :code "zmnx"} {:
+ [{:freq 3323, :code "fjbp", :char "瓢"} {:freq 12141, :code "fjbp", :char "彯"}], :code "fjbp"} {:
+ [{:freq 3331, :code "eyj", :char "茄"} {:freq 6790, :code "eyj", :char "苕"}], :code "eyj"} {:
+ [{:freq 3340, :code "fvmb", :char "霆"} {:freq 5318, :code "fvmb", :char "霪"}], :code "fvmb"} {:
+ [{:freq 3342, :code "fld", :char "桐"} {:freq 6586, :code "fld", :char "朿"} {:freq 8970, :code "fld", :char "棡"}], :code "fld"} {:
+ [{:freq 3344, :code "qmjq", :char "狷"} {:freq 5884, :code "qmjq", :char "猢"}], :code "qmjq"} {:
+ [{:freq 3354, :code "eeru", :char "鞠"} {:freq 7199, :code "eeru", :char "蘜"}], :code "eeru"} {:
+ [{:freq 3366, :code "qmjr", :char "猿"} {:freq 11671, :code "qmjr", :char "獧"}], :code "qmjr"} {:
+ [{:freq 3369, :code "dkzm", :char "摟"} {:freq 3643, :code "dkzm", :char "擻"} {:freq 4172, :code "dkzm", :char "拽"}], :code "dkzm"} {:
+ [{:freq 3374, :code "uoul", :char "燼"} {:freq 5630, :code "uoul", :char "熵"} {:freq 12938, :code "uoul", :char "覢"}], :code "uoul"} {:
+ [{:freq 3377, :code "ciry", :char "艷"} {:freq 6849, :code "ciry", :char "靘"}], :code "ciry"} {:
+ [{:freq 3390, :code "skk", :char "昶"} {:freq 9712, :code "skk", :char "誻"}], :code "skk"} {:
+ [{:freq 3392, :code "xmjl", :char "屌"} {:freq 12993, :code "xmjl", :char "屩"}], :code "xmjl"} {:
+ [{:freq 3412, :code "dyyn", :char "摺"} {:freq 5045, :code "dyyn", :char "擢"}], :code "dyyn"} {:
+ [{:freq 3426, :code "uorn", :char "焰"} {:freq 9902, :code "uorn", :char "爓"}], :code "uorn"} {:
+ [{:freq 3430, :code "eskr", :char "藹"} {:freq 4715, :code "eskr", :char "蓑"}], :code "eskr"} {:
+ [{:freq 3433, :code "llmh", :char "峨"} {:freq 11657, :code "llmh", :char "嶬"}], :code "llmh"} {:
+ [{:freq 3437, :code "evfb", :char "蒲"} {:freq 11170, :code "evfb", :char "薸"}], :code "evfb"} {:
+ [{:freq 3441, :code "ckjk", :char "璟"} {:freq 5999, :code "ckjk", :char "璫"}], :code "ckjk"} {:
+ [{:freq 3462, :code "zsya", :char "紡"} {:freq 5847, :code "zsya", :char "孿"}], :code "zsya"} {:
+ [{:freq 3470, :code "wdoj", :char "豁"} {:freq 5488, :code "wdoj", :char "蹇"}], :code "wdoj"} {:
+ [{:freq 3476, :code "uooj", :char "熔"} {:freq 10807, :code "uooj", :char "焀"}], :code "uooj"} {:
+ [{:freq 3479, :code "zsoo", :char "絞"} {:freq 5790, :code "zsoo", :char "臠"}], :code "zsoo"} {:
+ [{:freq 3481, :code "cyj", :char "珈"} {:freq 8052, :code "cyj", :char "玿"}], :code "cyj"} {:
+ [{:freq 3491, :code "jiii", :char "趾"} {:freq 12329, :code "jiii", :char "蹝"}], :code "jiii"} {:
+ [{:freq 3498, :code "eajc", :char "堇"} {:freq 4723, :code "eajc", :char "菫"}], :code "eajc"} {:
+ [{:freq 3502, :code "psmm", :char "鏟"} {:freq 6142, :code "psmm", :char "鏃"}], :code "psmm"} {:
+ [{:freq 3509, :code "vyj", :char "沼"} {:freq 6592, :code "vyj", :char "泇"}], :code "vyj"} {:
+ [{:freq 3522, :code "crs", :char "玖"} {:freq 5744, :code "crs", :char "玓"}], :code "crs"} {:
+ [{:freq 3523, :code "lljl", :char "嵩"} {:freq 5122, :code "lljl", :char "嶠"}], :code "lljl"} {:
+ [{:freq 3530, :code "llgs", :char "嶽"} {:freq 4366, :code "llgs", :char "獃"} {:freq 11845, :code "llgs", :char "巘"} {:freq 12915, :code "llgs", :char "瞁"}], :code "llgs"} {:
+ [{:freq 3540, :code "zmmh", :char "娥"} {:freq 5712, :code "zmmh", :char "奼"}], :code "zmmh"} {:
+ [{:freq 3544, :code "wtka", :char "袒"} {:freq 7651, :code "wtka", :char "襢"} {:freq 12399, :code "wtka", :char "襳"}], :code "wtka"} {:
+ [{:freq 3553, :code "wsaj", :char "祠"} {:freq 8468, :code "wsaj", :char "祫"}], :code "wsaj"} {:
+ [{:freq 3555, :code "ikro", :char "蜴"} {:freq 11641, :code "ikro", :char "蝪"}], :code "ikro"} {:
+ [{:freq 3556, :code "ioaj", :char "蛤"} {:freq 8786, :code "ioaj", :char "齮"}], :code "ioaj"} {:
+ [{:freq 3569, :code "ifpd", :char "蜥"} {:freq 9175, :code "ifpd", :char "螹"}], :code "ifpd"} {:
+ [{:freq 3570, :code "zkzm", :char "縷"} {:freq 11490, :code "zkzm", :char "絏"}], :code "zkzm"} {:
+ [{:freq 3583, :code "flfl", :char "棘"} {:freq 4073, :code "flfl", :char "棗"}], :code "flfl"} {:
+ [{:freq 3586, :code "tgeu", :char "庶"} {:freq 9073, :code "tgeu", :char "廡"}], :code "tgeu"} {:
+ [{:freq 3597, :code "odal", :char "侖"} {:freq 8364, :code "odal", :char "屳"}], :code "odal"} {:
+ [{:freq 3608, :code "zmuj", :char "嬉"} {:freq 9069, :code "zmuj", :char "嫸"}], :code "zmuj"} {:
+ [{:freq 3621, :code "ekq", :char "萌"} {:freq 11452, :code "ekq", :char "莦"}], :code "ekq"} {:
+ [{:freq 3622, :code "joxj", :char "嗆"} {:freq 4984, :code "joxj", :char "唅"}], :code "joxj"} {:
+ [{:freq 3625, :code "jieb", :char "躇"} {:freq 7996, :code "jieb", :char "蹕"}], :code "jieb"} {:
+ [{:freq 3628, :code "nkyy", :char "翱"} {:freq 9489, :code "nkyy", :char "傝"}], :code "nkyy"} {:
+ [{:freq 3645, :code "vwbk", :char "渲"} {:freq 4697, :code "vwbk", :char "淙"}], :code "vwbk"} {:
+ [{:freq 3654, :code "uoxj", :char "愴"} {:freq 6030, :code "uoxj", :char "熗"} {:freq 9459, :code "uoxj", :char "焓"} {:freq 10972, :code "uoxj", :char "煻"} {:freq 12838, :code "uoxj", :char "焐"}], :code "uoxj"} {:
+ [{:freq 3657, :code "rsuo", :char "灸"} {:freq 3748, :code "rsuo", :char "炙"}], :code "rsuo"} {:
+ [{:freq 3659, :code "likg", :char "幌"} {:freq 10310, :code "likg", :char "幙"}], :code "likg"} {:
+ [{:freq 3660, :code "tff", :char "痲"} {:freq 5904, :code "tff", :char "痳"}], :code "tff"} {:
+ [{:freq 3669, :code "uold", :char "炯"} {:freq 5748, :code "uold", :char "烔"}], :code "uold"} {:
+ [{:freq 3680, :code "kaed", :char "旱"} {:freq 8016, :code "kaed", :char "旰"}], :code "kaed"} {:
+ [{:freq 3697, :code "dez", :char "抴"} {:freq 5156, :code "dez", :char "揕"}], :code "dez"} {:
+ [{:freq 3699, :code "nxyj", :char "侷"} {:freq 10716, :code "nxyj", :char "牊"}], :code "nxyj"} {:
+ [{:freq 3701, :code "jiub", :char "蹉"} {:freq 6705, :code "jiub", :char "跘"}], :code "jiub"} {:
+ [{:freq 3725, :code "fdrj", :char "酪"} {:freq 5654, :code "fdrj", :char "酩"}], :code "fdrj"} {:
+ [{:freq 3743, :code "gra", :char "兀"} {:freq 4782, :code "gra", :char "兀"}], :code "gra"} {:
+ [{:freq 3747, :code "zmke", :char "嬋"} {:freq 6448, :code "zmke", :char "嫜"} {:freq 10128, :code "zmke", :char "婥"}], :code "zmke"} {:
+ [{:freq 3751, :code "zmbr", :char "姥"} {:freq 10648, :code "zmbr", :char "妧"}], :code "zmbr"} {:
+ [{:freq 3762, :code "qmkk", :char "猖"} {:freq 4613, :code "qmkk", :char "獠"}], :code "qmkk"} {:
+ [{:freq 3772, :code "eejq", :char "葫"} {:freq 12659, :code "eejq", :char "鞙"}], :code "eejq"} {:
+ [{:freq 3773, :code "nwni", :char "僱"} {:freq 9487, :code "nwni", :char "傕"}], :code "nwni"} {:
+ [{:freq 3774, :code "jiij", :char "踮"} {:freq 10235, :code "jiij", :char "跕"}], :code "jiij"} {:
+ [{:freq 3786, :code "wtjk", :char "褔"} {:freq 4458, :code "wtjk", :char "襠"}], :code "wtjk"} {:
+ [{:freq 3787, :code "tgrr", :char "庇"} {:freq 8825, :code "tgrr", :char "庀"}], :code "tgrr"} {:
+ [{:freq 3788, :code "nrrs", :char "侈"} {:freq 11312, :code "nrrs", :char "儳"}], :code "nrrs"} {:
+ [{:freq 3790, :code "uowz", :char "縈"} {:freq 5753, :code "uowz", :char "嫈"}], :code "uowz"} {:
+ [{:freq 3801, :code "vfj", :char "洒"} {:freq 6681, :code "vfj", :char "涑"}], :code "vfj"} {:
+ [{:freq 3802, :code "fbk", :char "桓"} {:freq 4886, :code "fbk", :char "柰"}], :code "fbk"} {:
+ [{:freq 3810, :code "uff", :char "慄"} {:freq 9441, :code "uff", :char "惏"}], :code "uff"} {:
+ [{:freq 3824, :code "vszq", :char "瀛"} {:freq 5852, :code "vszq", :char "淯"}], :code "vszq"} {:
+ [{:freq 3832, :code "zmuy", :char "娣"} {:freq 10127, :code "zmuy", :char "婘"}], :code "zmuy"} {:
+ [{:freq 3840, :code "uokh", :char "熾"} {:freq 6664, :code "uokh", :char "煨"}], :code "uokh"} {:
+ [{:freq 3841, :code "odyy", :char "翎"} {:freq 5162, :code "odyy", :char "翕"}], :code "odyy"} {:
+ [{:freq 3844, :code "vbk", :char "洹"} {:freq 8033, :code "vbk", :char "沶"}], :code "vbk"} {:
+ [{:freq 3845, :code "jixi", :char "跛"} {:freq 12221, :code "jixi", :char "踕"}], :code "jixi"} {:
+ [{:freq 3846, :code "zdfy", :char "勦"} {:freq 10345, :code "zdfy", :char "鄛"}], :code "zdfy"} {:
+ [{:freq 3849, :code "suyy", :char "翊"} {:freq 12388, :code "suyy", :char "譾"}], :code "suyy"} {:
+ [{:freq 3868, :code "jrj", :char "咯"} {:freq 6015, :code "jrj", :char "呴"}], :code "jrj"} {:
+ [{:freq 3878, :code "fwbk", :char "棕"} {:freq 12093, :code "fwbk", :char "楦"}], :code "fwbk"} {:
+ [{:freq 3879, :code "uoyn", :char "燿"} {:freq 5073, :code "uoyn", :char "熠"}], :code "uoyn"} {:
+ [{:freq 3883, :code "pwoj", :char "鎔"} {:freq 11866, :code "pwoj", :char "鑳"}], :code "pwoj"} {:
+ [{:freq 3891, :code "edel", :char "矗"} {:freq 4891, :code "edel", :char "賁"}], :code "edel"} {:
+ [{:freq 3912, :code "msmm", :char "簇"} {:freq 12290, :code "msmm", :char "簅"}], :code "msmm"} {:
+ [{:freq 3916, :code "pnf", :char "鎳"} {:freq 6379, :code "pnf", :char "銝"} {:freq 13030, :code "pnf", :char "鏶"}], :code "pnf"} {:
+ [{:freq 3917, :code "fbz", :char "椏"} {:freq 6013, :code "fbz", :char "杇"}], :code "fbz"} {:
+ [{:freq 3930, :code "arrk", :char "殉"} {:freq 8501, :code "arrk", :char "殙"}], :code "arrk"} {:
+ [{:freq 3931, :code "sugz", :char "竑"} {:freq 5463, :code "sugz", :char "竤"}], :code "sugz"} {:
+ [{:freq 3960, :code "zmrr", :char "媲"} {:freq 5818, :code "zmrr", :char "妣"} {:freq 6353, :code "zmrr", :char "姼"}], :code "zmrr"} {:
+ [{:freq 3985, :code "uorr", :char "焜"} {:freq 10369, :code "uorr", :char "熪"}], :code "uorr"} {:
+ [{:freq 4000, :code "mfbj", :char "稠"} {:freq 10816, :code "mfbj", :char "秸"}], :code "mfbj"} {:
+ [{:freq 4014, :code "ymeb", :char "陞"} {:freq 4341, :code "ymeb", :char "陲"}], :code "ymeb"} {:
+ [{:freq 4018, :code "ciym", :char "敖"} {:freq 5681, :code "ciym", :char "挈"}], :code "ciym"} {:
+ [{:freq 4022, :code "ydai", :char "虱"} {:freq 4537, :code "ydai", :char "蝨"}], :code "ydai"} {:
+ [{:freq 4026, :code "zsmr", :char "欸"} {:freq 6462, :code "zsmr", :char "鴾"}], :code "zsmr"} {:
+ [{:freq 4028, :code "llsx", :char "岑"} {:freq 7739, :code "llsx", :char "崀"} {:freq 10003, :code "llsx", :char "岒"}], :code "llsx"} {:
+ [{:freq 4056, :code "flo", :char "梖"} {:freq 6069, :code "flo", :char "椇"}], :code "flo"} {:
+ [{:freq 4058, :code "llzz", :char "崛"} {:freq 10838, :code "llzz", :char "嵫"}], :code "llzz"} {:
+ [{:freq 4062, :code "lljj", :char "嶇"} {:freq 11222, :code "lljj", :char "巆"}], :code "lljj"} {:
+ [{:freq 4063, :code "fkyy", :char "榻"} {:freq 9233, :code "fkyy", :char "轏"}], :code "fkyy"} {:
+ [{:freq 4071, :code "cuop", :char "驂"} {:freq 12233, :code "cuop", :char "駗"}], :code "cuop"} {:
+ [{:freq 4072, :code "zmxm", :char "娓"} {:freq 6506, :code "zmxm", :char "拏"}], :code "zmxm"} {:
+ [{:freq 4077, :code "tgkz", :char "庵"} {:freq 6979, :code "tgkz", :char "痷"} {:freq 7129, :code "tgkz", :char "廔"}], :code "tgkz"} {:
+ [{:freq 4082, :code "mbow", :char "迭"} {:freq 7398, :code "mbow", :char "遾"}], :code "mbow"} {:
+ [{:freq 4097, :code "zmhb", :char "姪"} {:freq 7498, :code "zmhb", :char "娙"}], :code "zmhb"} {:
+ [{:freq 4115, :code "ufj", :char "悚"} {:freq 8406, :code "ufj", :char "恓"}], :code "ufj"} {:
+ [{:freq 4117, :code "arro", :char "殤"} {:freq 11356, :code "arro", :char "歾"}], :code "arro"} {:
+ [{:freq 4125, :code "nld", :char "佣"} {:freq 5976, :code "nld", :char "侗"}], :code "nld"} {:
+ [{:freq 4133, :code "ldw", :char "迥"} {:freq 4874, :code "ldw", :char "迵"}], :code "ldw"} {:
+ [{:freq 4133, :code "wld", :char "迥"} {:freq 4874, :code "wld", :char "迵"}], :code "wld"} {:
+ [{:freq 4146, :code "zsjy", :char "邰"} {:freq 10980, :code "zsjy", :char "綧"}], :code "zsjy"} {:
+ [{:freq 4163, :code "vej", :char "沽"} {:freq 10853, :code "vej", :char "渽"}], :code "vej"} {:
+ [{:freq 4168, :code "mlgz", :char "篡"} {:freq 4933, :code "mlgz", :char "纂"}], :code "mlgz"} {:
+ [{:freq 4173, :code "poxj", :char "鎗"} {:freq 11059, :code "poxj", :char "鋡"}], :code "poxj"} {:
+ [{:freq 4231, :code "zmka", :char "妲"} {:freq 6454, :code "zmka", :char "嬗"} {:freq 6562, :code "zmka", :char "孅"} {:freq 10354, :code "zmka", :char "嫿"}], :code "zmka"} {:
+ [{:freq 4234, :code "zbzs", :char "紜"} {:freq 8943, :code "zbzs", :char "紶"}], :code "zbzs"} {:
+ [{:freq 4238, :code "lwrj", :char "骼"} {:freq 10534, :code "lwrj", :char "髂"}], :code "lwrj"} {:
+ [{:freq 4252, :code "kirr", :char "毗"} {:freq 4314, :code "kirr", :char "毘"}], :code "kirr"} {:
+ [{:freq 4266, :code "zsrz", :char "鸞"} {:freq 11262, :code "zsrz", :char "鶭"}], :code "zsrz"} {:
+ [{:freq 4274, :code "encq", :char "蒨"} {:freq 10937, :code "encq", :char "葮"}], :code "encq"} {:
+ [{:freq 4275, :code "sih", :char "謔"} {:freq 9711, :code "sih", :char "諕"}], :code "sih"} {:
+ [{:freq 4277, :code "ghi", :char "蜃"} {:freq 9383, :code "ghi", :char "砑"}], :code "ghi"} {:
+ [{:freq 4278, :code "lxcm", :char "瞰"} {:freq 7439, :code "lxcm", :char "矙"}], :code "lxcm"} {:
+ [{:freq 4284, :code "jiex", :char "踱"} {:freq 9483, :code "jiex", :char "跂"}], :code "jiex"} {:
+ [{:freq 4291, :code "llmy", :char "屹"} {:freq 12516, :code "llmy", :char "崺"}], :code "llmy"} {:
+ [{:freq 4319, :code "knj", :char "晌"} {:freq 8897, :code "knj", :char "晑"}], :code "knj"} {:
+ [{:freq 4324, :code "uouf", :char "燊"} {:freq 9577, :code "uouf", :char "煪"}], :code "uouf"} {:
+ [{:freq 4332, :code "qmzr", :char "獗"} {:freq 7467, :code "qmzr", :char "狁"}], :code "qmzr"} {:
+ [{:freq 4338, :code "wsyy", :char "祀"} {:freq 5717, :code "wsyy", :char "祤"} {:freq 6208, :code "wsyy", :char "禢"} {:freq 6734, :code "wsyy", :char "禤"}], :code "wsyy"} {:
+ [{:freq 4339, :code "llbr", :char "崁"} {:freq 7249, :code "llbr", :char "岏"} {:freq 8865, :code "llbr", :char "峔"}], :code "llbr"} {:
+ [{:freq 4349, :code "xdaj", :char "閤"} {:freq 6983, :code "xdaj", :char "閜"}], :code "xdaj"} {:
+ [{:freq 4354, :code "yzyi", :char "弛"} {:freq 11333, :code "yzyi", :char "弝"}], :code "yzyi"} {:
+ [{:freq 4356, :code "jiej", :char "踞"} {:freq 9543, :code "jiej", :char "跍"}], :code "jiej"} {:
+ [{:freq 4365, :code "uffd", :char "糰"} {:freq 10421, :code "uffd", :char "糐"}], :code "uffd"} {:
+ [{:freq 4367, :code "uoeb", :char "燁"} {:freq 10368, :code "uoeb", :char "熚"}], :code "uoeb"} {:
+ [{:freq 4370, :code "wobb", :char "窪"} {:freq 8100, :code "wobb", :char "窐"}], :code "wobb"} {:
+ [{:freq 4371, :code "uobu", :char "燻"} {:freq 9950, :code "uobu", :char "爣"} {:freq 11131, :code "uobu", :char "燡"}], :code "uobu"} {:
+ [{:freq 4397, :code "fkz", :char "軋"} {:freq 12184, :code "fkz", :char "樏"}], :code "fkz"} {:
+ [{:freq 4398, :code "zmpk", :char "嬸"} {:freq 11620, :code "zmpk", :char "嬏"} {:freq 11738, :code "zmpk", :char "嬼"}], :code "zmpk"} {:
+ [{:freq 4419, :code "eyz", :char "芎"} {:freq 12456, :code "eyz", :char "芤"}], :code "eyz"} {:
+ [{:freq 4422, :code "qmrl", :char "獺"} {:freq 6915, :code "qmrl", :char "臢"}], :code "qmrl"} {:
+ [{:freq 4430, :code "aey", :char "邢"} {:freq 10640, :code "aey", :char "邗"}], :code "aey"} {:
+ [{:freq 4440, :code "wdh", :char "宦"} {:freq 10084, :code "wdh", :char "宧"}], :code "wdh"} {:
+ [{:freq 4442, :code "ytys", :char "翌"} {:freq 8102, :code "ytys", :char "翋"}], :code "ytys"} {:
+ [{:freq 4455, :code "wdwl", :char "甯"} {:freq 6362, :code "wdwl", :char "寍"}], :code "wdwl"} {:
+ [{:freq 4461, :code "nbxs", :char "叟"} {:freq 11761, :code "nbxs", :char "鼥"}], :code "nbxs"} {:
+ [{:freq 4469, :code "qmuw", :char "逖"} {:freq 6521, :code "qmuw", :char "悐"}], :code "qmuw"} {:
+ [{:freq 4471, :code "zmeu", :char "嫵"} {:freq 12139, :code "zmeu", :char "嫬"}], :code "zmeu"} {:
+ [{:freq 4473, :code "nbzm", :char "佞"} {:freq 9865, :code "nbzm", :char "鼪"}], :code "nbzm"} {:
+ [{:freq 4486, :code "odjg", :char "頷"} {:freq 5336, :code "odjg", :char "頜"}], :code "odjg"} {:
+ [{:freq 4487, :code "gqgl", :char "豨"} {:freq 6412, :code "gqgl", :char "豳"}], :code "gqgl"} {:
+ [{:freq 4498, :code "wtjf", :char "褓"} {:freq 11781, :code "wtjf", :char "襙"} {:freq 12568, :code "wtjf", :char "裍"}], :code "wtjf"} {:
+ [{:freq 4519, :code "cwfk", :char "璉"} {:freq 5276, :code "cwfk", :char "琿"}], :code "cwfk"} {:
+ [{:freq 4527, :code "zmoo", :char "姣"} {:freq 7170, :code "zmoo", :char "嬭"} {:freq 10402, :code "zmoo", :char "嬐"}], :code "zmoo"} {:
+ [{:freq 4542, :code "culk", :char "駟"} {:freq 7603, :code "culk", :char "璔"} {:freq 10590, :code "culk", :char "驓"}], :code "culk"} {:
+ [{:freq 4544, :code "zmxi", :char "妤"} {:freq 5603, :code "zmxi", :char "婕"} {:freq 9034, :code "zmxi", :char "嫙"}], :code "zmxi"} {:
+ [{:freq 4548, :code "mywz", :char "氨"} {:freq 10024, :code "mywz", :char "忥"}], :code "mywz"} {:
+ [{:freq 4550, :code "arkl", :char "殯"} {:freq 10969, :code "arkl", :char "殟"}], :code "arkl"} {:
+ [{:freq 4561, :code "ssul", :char "謫"} {:freq 9848, :code "ssul", :char "謪"}], :code "ssul"} {:
+ [{:freq 4563, :code "oxnj", :char "餉"} {:freq 5280, :code "oxnj", :char "餽"}], :code "oxnj"} {:
+ [{:freq 4565, :code "cueb", :char "驊"} {:freq 9921, :code "cueb", :char "驆"}], :code "cueb"} {:
+ [{:freq 4571, :code "zmmk", :char "姝"} {:freq 6188, :code "zmmk", :char "娳"}], :code "zmmk"} {:
+ [{:freq 4576, :code "bdgm", :char "犛"} {:freq 8601, :code "bdgm", :char "氂"}], :code "bdgm"} {:
+ [{:freq 4580, :code "fdbu", :char "醺"} {:freq 12364, :code "fdbu", :char "醳"}], :code "fdbu"} {:
+ [{:freq 4591, :code "ikq", :char "蝟"} {:freq 8161, :code "ikq", :char "蛸"}], :code "ikq"} {:
+ [{:freq 4606, :code "qrj", :char "胳"} {:freq 6597, :code "qrj", :char "胊"} {:freq 11373, :code "qrj", :char "朐"}], :code "qrj"} {:
+ [{:freq 4608, :code "qfds", :char "膊"} {:freq 12201, :code "qfds", :char "膞"}], :code "qfds"} {:
+ [{:freq 4610, :code "llrk", :char "峋"} {:freq 8404, :code "llrk", :char "峛"} {:freq 11999, :code "llrk", :char "崏"} {:freq 12175, :code "llrk", :char "嶜"}], :code "llrk"} {:
+ [{:freq 4617, :code "brs", :char "坻"} {:freq 5116, :code "brs", :char "圴"}], :code "brs"} {:
+ [{:freq 4620, :code "pymi", :char "舴"} {:freq 11690, :code "pymi", :char "鋋"}], :code "pymi"} {:
+ [{:freq 4621, :code "llms", :char "岌"} {:freq 11329, :code "llms", :char "岋"}], :code "llms"} {:
+ [{:freq 4641, :code "jikg", :char "蹴"} {:freq 9224, :code "jikg", :char "嚬"}], :code "jikg"} {:
+ [{:freq 4642, :code "nbzs", :char "伝"} {:freq 6350, :code "nbzs", :char "佉"} {:freq 7178, :code "nbzs", :char "鼤"}], :code "nbzs"} {:
+ [{:freq 4643, :code "rys", :char "勺"} {:freq 6154, :code "rys", :char "訇"}], :code "rys"} {:
+ [{:freq 4648, :code "jya", :char "叼"} {:freq 6774, :code "jya", :char "吇"}], :code "jya"} {:
+ [{:freq 4650, :code "zmjr", :char "娩"} {:freq 5838, :code "zmjr", :char "鴽"} {:freq 5957, :code "zmjr", :char "嬛"} {:freq 8528, :code "zmjr", :char "媴"}], :code "zmjr"} {:
+ [{:freq 4657, :code "zmul", :char "嫡"} {:freq 9161, :code "zmul", :char "嬧"}], :code "zmul"} {:
+ [{:freq 4676, :code "uogl", :char "烯"} {:freq 6796, :code "uogl", :char "悕"}], :code "uogl"} {:
+ [{:freq 4680, :code "myyn", :char "氟"} {:freq 8306, :code "myyn", :char "籊"}], :code "myyn"} {:
+ [{:freq 4684, :code "uowb", :char "焢"} {:freq 5552, :code "uowb", :char "塋"} {:freq 7872, :code "uowb", :char "禜"}], :code "uowb"} {:
+ [{:freq 4687, :code "jilk", :char "盅"} {:freq 5331, :code "jilk", :char "蹭"}], :code "jilk"} {:
+ [{:freq 4694, :code "frk", :char "櫓"} {:freq 7275, :code "frk", :char "栺"} {:freq 11402, :code "frk", :char "栒"} {:freq 12053, :code "frk", :char "棔"}], :code "frk"} {:
+ [{:freq 4701, :code "sid", :char "卞"} {:freq 7442, :code "sid", :char "訃"}], :code "sid"} {:
+ [{:freq 4710, :code "uoyj", :char "炤"} {:freq 5071, :code "uoyj", :char "焗"}], :code "uoyj"} {:
+ [{:freq 4716, :code "ekzm", :char "藪"} {:freq 7365, :code "ekzm", :char "蔞"}], :code "ekzm"} {:
+ [{:freq 4718, :code "nbod", :char "臾"} {:freq 4800, :code "nbod", :char "伕"}], :code "nbod"} {:
+ [{:freq 4729, :code "jrrs", :char "哆"} {:freq 11221, :code "jrrs", :char "嚵"}], :code "jrrs"} {:
+ [{:freq 4763, :code "gkv", :char "泵"} {:freq 6426, :code "gkv", :char "砅"}], :code "gkv"} {:
+ [{:freq 4784, :code "urj", :char "恪"} {:freq 6147, :code "urj", :char "怐"}], :code "urj"} {:
+ [{:freq 4787, :code "njos", :char "囪"} {:freq 8365, :code "njos", :char "囟"}], :code "njos"} {:
+ [{:freq 4808, :code "ygoo", :char "陝"} {:freq 6067, :code "ygoo", :char "陜"}], :code "ygoo"} {:
+ [{:freq 4814, :code "jibo", :char "趺"} {:freq 10991, :code "jibo", :char "跿"}], :code "jibo"} {:
+ [{:freq 4819, :code "snxs", :char "謢"} {:freq 7631, :code "snxs", :char "謏"}], :code "snxs"} {:
+ [{:freq 4828, :code "ufmz", :char "粼"} {:freq 6707, :code "ufmz", :char "亃"}], :code "ufmz"} {:
+ [{:freq 4829, :code "iirl", :char "貲"} {:freq 5951, :code "iirl", :char "眥"} {:freq 9018, :code "iirl", :char "觜"}], :code "iirl"} {:
+ [{:freq 4830, :code "fnds", :char "榭"} {:freq 5252, :code "fnds", :char "柎"}], :code "fnds"} {:
+ [{:freq 4833, :code "gld", :char "硐"} {:freq 11541, :code "gld", :char "碙"}], :code "gld"} {:
+ [{:freq 4842, :code "ryok", :char "刎"} {:freq 8852, :code "ryok", :char "曶"}], :code "ryok"} {:
+ [{:freq 4843, :code "vffq", :char "潸"} {:freq 8177, :code "vffq", :char "滼"}], :code "vffq"} {:
+ [{:freq 4851, :code "zmaj", :char "婀"} {:freq 6785, :code "zmaj", :char "姶"} {:freq 7481, :code "zmaj", :char "姤"} {:freq 8930, :code "zmaj", :char "婍"}], :code "zmaj"} {:
+ [{:freq 4866, :code "lkai", :char "罡"} {:freq 9636, :code "lkai", :char "睼"}], :code "lkai"} {:
+ [{:freq 4878, :code "wtkz", :char "褸"} {:freq 11605, :code "wtkz", :char "裺"} {:freq 12211, :code "wtkz", :char "褗"}], :code "wtkz"} {:
+ [{:freq 4879, :code "drrs", :char "攙"} {:freq 12799, :code "drrs", :char "拸"}], :code "drrs"} {:
+ [{:freq 4903, :code "jdgq", :char "囿"} {:freq 10081, :code "jdgq", :char "圂"}], :code "jdgq"} {:
+ [{:freq 4906, :code "mkzm", :char "簍"} {:freq 12374, :code "mkzm", :char "籔"}], :code "mkzm"} {:
+ [{:freq 4907, :code "eekk", :char "韁"} {:freq 11146, :code "eekk", :char "鞜"}], :code "eekk"} {:
+ [{:freq 4908, :code "zmmb", :char "婬"} {:freq 6044, :code "zmmb", :char "妊"} {:freq 11961, :code "zmmb", :char "娗"}], :code "zmmb"} {:
+ [{:freq 4911, :code "ryjr", :char "鴝"} {:freq 9380, :code "ryjr", :char "欨"}], :code "ryjr"} {:
+ [{:freq 4925, :code "uojl", :char "熇"} {:freq 8229, :code "uojl", :char "燆"} {:freq 9632, :code "uojl", :char "熉"} {:freq 10568, :code "uojl", :char "爚"}], :code "uojl"} {:
+ [{:freq 4932, :code "hmyy", :char "翳"} {:freq 7737, :code "hmyy", :char "郕"}], :code "hmyy"} {:
+ [{:freq 4935, :code "eez", :char "葚"} {:freq 10496, :code "eez", :char "藄"}], :code "eez"} {:
+ [{:freq 4959, :code "srrs", :char "讒"} {:freq 7825, :code "srrs", :char "誃"}], :code "srrs"} {:
+ [{:freq 4964, :code "wdxj", :char "寤"} {:freq 8428, :code "wdxj", :char "宭"}], :code "wdxj"} {:
+ [{:freq 4971, :code "vrk", :char "洵"} {:freq 8941, :code "vrk", :char "涽"}], :code "vrk"} {:
+ [{:freq 4973, :code "kkro", :char "暘"} {:freq 5374, :code "kkro", :char "晹"}], :code "kkro"} {:
+ [{:freq 4990, :code "fmj", :char "梏"} {:freq 8972, :code "fmj", :char "椥"}], :code "fmj"} {:
+ [{:freq 4997, :code "mlhs", :char "篾"} {:freq 5061, :code "mlhs", :char "衊"}], :code "mlhs"} {:
+ [{:freq 5009, :code "jmiy", :char "啣"} {:freq 6954, :code "jmiy", :char "唌"}], :code "jmiy"} {:
+ [{:freq 5018, :code "fwfk", :char "槤"} {:freq 12880, :code "fwfk", :char "楎"}], :code "fwfk"} {:
+ [{:freq 5019, :code "wsrs", :char "祗"} {:freq 12789, :code "wsrs", :char "礿"}], :code "wsrs"} {:
+ [{:freq 5031, :code "wtwl", :char "褊"} {:freq 11046, :code "wtwl", :char "褅"}], :code "wtwl"} {:
+ [{:freq 5042, :code "tgyz", :char "痍"} {:freq 11013, :code "tgyz", :char "緳"}], :code "tgyz"} {:
+ [{:freq 5064, :code "vfds", :char "溥"} {:freq 8571, :code "vfds", :char "漙"}], :code "vfds"} {:
+ [{:freq 5092, :code "zmkb", :char "娌"} {:freq 11636, :code "zmkb", :char "緟"} {:freq 12240, :code "zmkb", :char "嬞"}], :code "zmkb"} {:
+ [{:freq 5101, :code "ebbg", :char "蕘"} {:freq 11213, :code "ebbg", :char "顜"}], :code "ebbg"} {:
+ [{:freq 5104, :code "frs", :char "柢"} {:freq 5333, :code "frs", :char "杓"}], :code "frs"} {:
+ [{:freq 5127, :code "flk", :char "柬"} {:freq 10059, :code "flk", :char "柶"}], :code "flk"} {:
+ [{:freq 5145, :code "kiaq", :char "冑"} {:freq 6281, :code "kiaq", :char "胄"}], :code "kiaq"} {:
+ [{:freq 5148, :code "vgoo", :char "浹"} {:freq 7132, :code "vgoo", :char "漺"}], :code "vgoo"} {:
+ [{:freq 5149, :code "fjke", :char "覃"} {:freq 10408, :code "fjke", :char "樿"}], :code "fjke"} {:
+ [{:freq 5154, :code "odbk", :char "佘"} {:freq 5691, :code "odbk", :char "剉"}], :code "odbk"} {:
+ [{:freq 5155, :code "zmai", :char "媞"} {:freq 12777, :code "zmai", :char "姃"} {:freq 12877, :code "zmai", :char "媸"}], :code "zmai"} {:
+ [{:freq 5157, :code "fuuo", :char "榚"} {:freq 8118, :code "fuuo", :char "棪"}], :code "fuuo"} {:
+ [{:freq 5172, :code "fdmi", :char "酢"} {:freq 6268, :code "fdmi", :char "醡"}], :code "fdmi"} {:
+ [{:freq 5181, :code "oslr", :char "欷"} {:freq 13011, :code "oslr", :char "鵗"}], :code "oslr"} {:
+ [{:freq 5205, :code "llrj", :char "峈"} {:freq 8040, :code "llrj", :char "峉"} {:freq 9346, :code "llrj", :char "岣"}], :code "llrj"} {:
+ [{:freq 5207, :code "uoke", :char "焯"} {:freq 10414, :code "uoke", :char "燀"} {:freq 12251, :code "uoke", :char "燂"}], :code "uoke"} {:
+ [{:freq 5216, :code "zmlb", :char "媾"} {:freq 11911, :code "zmlb", :char "姌"}], :code "zmlb"} {:
+ [{:freq 5246, :code "mbjl", :char "犒"} {:freq 7602, :code "mbjl", :char "犞"}], :code "mbjl"} {:
+ [{:freq 5267, :code "sez", :char "諶"} {:freq 10232, :code "sez", :char "詍"}], :code "sez"} {:
+ [{:freq 5283, :code "pyki", :char "舺"} {:freq 7303, :code "pyki", :char "舳"}], :code "pyki"} {:
+ [{:freq 5284, :code "wtbz", :char "袪"} {:freq 9289, :code "wtbz", :char "襼"}], :code "wtbz"} {:
+ [{:freq 5290, :code "nkge", :char "皋"} {:freq 12197, :code "nkge", :char "皞"}], :code "nkge"} {:
+ [{:freq 5300, :code "jiyj", :char "跏"} {:freq 6407, :code "jiyj", :char "跼"}], :code "jiyj"} {:
+ [{:freq 5306, :code "pkk", :char "錩"} {:freq 12656, :code "pkk", :char "錔"}], :code "pkk"} {:
+ [{:freq 5317, :code "mhrk", :char "簪"} {:freq 11765, :code "mhrk", :char "氌"}], :code "mhrk"} {:
+ [{:freq 5342, :code "myj", :char "笳"} {:freq 8101, :code "myj", :char "笤"}], :code "myj"} {:
+ [{:freq 5353, :code "aroo", :char "殮"} {:freq 7768, :code "aroo", :char "殎"}], :code "aroo"} {:
+ [{:freq 5372, :code "e", :char "卌"} {:freq 5930, :code "e", :char "廾"}], :code "e"} {:
+ [{:freq 5382, :code "frrs", :char "栘"} {:freq 8755, :code "frrs", :char "欃"}], :code "frrs"} {:
+ [{:freq 5396, :code "eld", :char "茼"} {:freq 10226, :code "eld", :char "菵"}], :code "eld"} {:
+ [{:freq 5401, :code "bwfq", :char "榖"} {:freq 6011, :code "bwfq", :char "轂"}], :code "bwfq"} {:
+ [{:freq 5403, :code "cigs", :char "獒"} {:freq 9951, :code "cigs", :char "瓛"}], :code "cigs"} {:
+ [{:freq 5414, :code "wtaj", :char "褡"} {:freq 8520, :code "wtaj", :char "袷"}], :code "wtaj"} {:
+ [{:freq 5459, :code "llgy", :char "峗"} {:freq 5621, :code "llgy", :char "峓"} {:freq 7724, :code "llgy", :char "峞"}], :code "llgy"} {:
+ [{:freq 5466, :code "qmlk", :char "獪"} {:freq 7516, :code "qmlk", :char "猘"}], :code "qmlk"} {:
+ [{:freq 5474, :code "curm", :char "璘"} {:freq 6396, :code "curm", :char "驎"}], :code "curm"} {:
+ [{:freq 5491, :code "oxeo", :char "饌"} {:freq 11003, :code "oxeo", :char "餀"}], :code "oxeo"} {:
+ [{:freq 5518, :code "oxmy", :char "飭"} {:freq 12577, :code "oxmy", :char "飹"} {:freq 12700, :code "oxmy", :char "餼"}], :code "oxmy"} {:
+ [{:freq 5520, :code "uoug", :char "燧"} {:freq 6010, :code "uoug", :char "燠"} {:freq 12308, :code "uoug", :char "顃"}], :code "uoug"} {:
+ [{:freq 5522, :code "fvqm", :char "霰"} {:freq 11258, :code "fvqm", :char "霺"}], :code "fvqm"} {:
+ [{:freq 5536, :code "fned", :char "榫"} {:freq 6306, :code "fned", :char "椑"}], :code "fned"} {:
+ [{:freq 5537, :code "elrr", :char "薨"} {:freq 9231, :code "elrr", :char "藣"}], :code "elrr"} {:
+ [{:freq 5539, :code "nbor", :char "歟"} {:freq 7041, :code "nbor", :char "鷽"} {:freq 7457, :code "nbor", :char "鱟"} {:freq 8345, :code "nbor", :char "鸒"} {:freq 10734, :code "nbor", :char "倰"}], :code "nbor"} {:
+ [{:freq 5550, :code "wtji", :char "襁"} {:freq 9428, :code "wtji", :char "衶"}], :code "wtji"} {:
+ [{:freq 5589, :code "fkop", :char "軫"} {:freq 13007, :code "fkop", :char "轇"}], :code "fkop"} {:
+ [{:freq 5601, :code "kuo", :char "炅"} {:freq 7068, :code "kuo", :char "炚"}], :code "kuo"} {:
+ [{:freq 5611, :code "uooo", :char "憸"} {:freq 12420, :code "uooo", :char "爧"}], :code "uooo"} {:
+ [{:freq 5614, :code "bbz", :char "圬"} {:freq 6605, :code "bbz", :char "埡"}], :code "bbz"} {:
+ [{:freq 5616, :code "fdai", :char "酊"} {:freq 5675, :code "fdai", :char "醍"}], :code "fdai"} {:
+ [{:freq 5634, :code "jdro", :char "囫"} {:freq 9409, :code "jdro", :char "欭"}], :code "jdro"} {:
+ [{:freq 5645, :code "yybk", :char "暋"} {:freq 8010, :code "yybk", :char "刡"}], :code "yybk"} {:
+ [{:freq 5648, :code "eaoo", :char "薾"} {:freq 11863, :code "eaoo", :char "臡"}], :code "eaoo"} {:
+ [{:freq 5705, :code "mzj", :char "笞"} {:freq 12528, :code "mzj", :char "筎"}], :code "mzj"} {:
+ [{:freq 5716, :code "jdal", :char "圇"} {:freq 11615, :code "jdal", :char "圚"}], :code "jdal"} {:
+ [{:freq 5727, :code "pnc", :char "鍠"} {:freq 7370, :code "pnc", :char "銵"}], :code "pnc"} {:
+ [{:freq 5730, :code "mbrr", :char "牝"} {:freq 12338, :code "mbrr", :char "犤"}], :code "mbrr"} {:
+ [{:freq 5733, :code "gdzr", :char "匏"} {:freq 6912, :code "gdzr", :char "鵪"} {:freq 11153, :code "gdzr", :char "鴮"}], :code "gdzr"} {:
+ [{:freq 5751, :code "kior", :char "畯"} {:freq 11410, :code "kior", :char "畟"}], :code "kior"} {:
+ [{:freq 5755, :code "vlni", :char "漼"} {:freq 10412, :code "vlni", :char "濉"}], :code "vlni"} {:
+ [{:freq 5775, :code "jirr", :char "呲"} {:freq 9022, :code "jirr", :char "跢"}], :code "jirr"} {:
+ [{:freq 5785, :code "swfk", :char "諢"} {:freq 9208, :code "swfk", :char "謰"}], :code "swfk"} {:
+ [{:freq 5808, :code "wdlo", :char "寘"} {:freq 8494, :code "wdlo", :char "寎"}], :code "wdlo"} {:
+ [{:freq 5824, :code "cimc", :char "聱"} {:freq 8764, :code "cimc", :char "驁"}], :code "cimc"} {:
+ [{:freq 5830, :code "zmmr", :char "彘"} {:freq 10050, :code "zmmr", :char "姺"}], :code "zmmr"} {:
+ [{:freq 5845, :code "wtug", :char "襖"} {:freq 8292, :code "wtug", :char "襚"}], :code "wtug"} {:
+ [{:freq 5851, :code "mfmh", :char "秏"} {:freq 6108, :code "mfmh", :char "秅"} {:freq 10154, :code "mfmh", :char "秺"}], :code "mfmh"} {:
+ [{:freq 5858, :code "vugd", :char "渼"} {:freq 8412, :code "vugd", :char "浂"}], :code "vugd"} {:
+ [{:freq 5859, :code "fxmf", :char "楙"} {:freq 8536, :code "fxmf", :char "楺"}], :code "fxmf"} {:
+ [{:freq 5876, :code "mynd", :char "氘"} {:freq 10009, :code "mynd", :char "氚"} {:freq 11444, :code "mynd", :char "笰"}], :code "mynd"} {:
+ [{:freq 5880, :code "zmec", :char "娸"} {:freq 11518, :code "zmec", :char "媶"}], :code "zmec"} {:
+ [{:freq 5883, :code "uouu", :char "焱"} {:freq 11088, :code "uouu", :char "燚"}], :code "uouu"} {:
+ [{:freq 5890, :code "uoxb", :char "熞"} {:freq 11534, :code "uoxb", :char "煡"}], :code "uoxb"} {:
+ [{:freq 5899, :code "cuke", :char "驒"} {:freq 6879, :code "cuke", :char "騿"} {:freq 10557, :code "cuke", :char "騲"} {:freq 10591, :code "cuke", :char "驔"}], :code "cuke"} {:
+ [{:freq 5900, :code "xmsr", :char "鷿"} {:freq 6411, :code "xmsr", :char "褽"} {:freq 10629, :code "xmsr", :char "襞"}], :code "xmsr"} {:
+ [{:freq 5902, :code "errs", :char "菟"} {:freq 8445, :code "errs", :char "茤"}], :code "errs"} {:
+ [{:freq 5922, :code "dufd", :char "揂"} {:freq 6904, :code "dufd", :char "撙"}], :code "dufd"} {:
+ [{:freq 5929, :code "nbll", :char "舋"} {:freq 7621, :code "nbll", :char "儥"}], :code "nbll"} {:
+ [{:freq 5935, :code "zmkl", :char "嬪"} {:freq 8962, :code "zmkl", :char "媢"}], :code "zmkl"} {:
+ [{:freq 5940, :code "wtrr", :char "襬"} {:freq 8237, :code "wtrr", :char "褦"}], :code "wtrr"} {:
+ [{:freq 5950, :code "mbjy", :char "郜"} {:freq 10046, :code "mbjy", :char "勂"} {:freq 10205, :code "mbjy", :char "犉"}], :code "mbjy"} {:
+ [{:freq 5961, :code "nlys", :char "齀"} {:freq 7870, :code "nlys", :char "甈"}], :code "nlys"} {:
+ [{:freq 5996, :code "zmeb", :char "嬅"} {:freq 9307, :code "zmeb", :char "綞"} {:freq 9496, :code "zmeb", :char "娷"} {:freq 11910, :code "zmeb", :char "姏"}], :code "zmeb"} {:
+ [{:freq 6016, :code "zmal", :char "姵"} {:freq 11619, :code "zmal", :char "嬇"}], :code "zmal"} {:
+ [{:freq 6047, :code "klym", :char "勗"} {:freq 8453, :code "klym", :char "勖"}], :code "klym"} {:
+ [{:freq 6059, :code "llgl", :char "峏"} {:freq 8801, :code "llgl", :char "耑"}], :code "llgl"} {:
+ [{:freq 6062, :code "zizz", :char "芔"} {:freq 7797, :code "zizz", :char "茻"}], :code "zizz"} {:
+ [{:freq 6063, :code "wtxs", :char "衩"} {:freq 11456, :code "wtxs", :char "袚"}], :code "wtxs"} {:
+ [{:freq 6083, :code "vkjk", :char "澢"} {:freq 12189, :code "vkjk", :char "澋"}], :code "vkjk"} {:
+ [{:freq 6095, :code "fps", :char "柝"} {:freq 11937, :code "fps", :char "柧"}], :code "fps"} {:
+ [{:freq 6103, :code "sjyr", :char "鶉"} {:freq 9017, :code "sjyr", :char "裛"}], :code "sjyr"} {:
+ [{:freq 6111, :code "fjro", :char "欶"} {:freq 11555, :code "fjro", :char "覅"}], :code "fjro"} {:
+ [{:freq 6125, :code "fvlg", :char "霙"} {:freq 7830, :code "fvlg", :char "雵"}], :code "fvlg"} {:
+ [{:freq 6149, :code "dbzs", :char "抾"} {:freq 6921, :code "dbzs", :char "抎"}], :code "dbzs"} {:
+ [{:freq 6162, :code "vskr", :char "滖"} {:freq 11767, :code "vskr", :char "瀤"}], :code "vskr"} {:
+ [{:freq 6173, :code "eszn", :char "蘺"} {:freq 7628, :code "eszn", :char "蕹"}], :code "eszn"} {:
+ [{:freq 6198, :code "ciyi", :char "蛪"} {:freq 6290, :code "ciyi", :char "齧"}], :code "ciyi"} {:
+ [{:freq 6215, :code "mbor", :char "鴩"} {:freq 12411, :code "mbor", :char "犪"}], :code "mbor"} {:
+ [{:freq 6216, :code "zser", :char "鴘"} {:freq 7204, :code "zser", :char "纕"}], :code "zser"} {:
+ [{:freq 6230, :code "vngs", :char "溴"} {:freq 8048, :code "vngs", :char "洑"}], :code "vngs"} {:
+ [{:freq 6239, :code "vps", :char "泝"} {:freq 6783, :code "vps", :char "泒"}], :code "vps"} {:
+ [{:freq 6252, :code "mfal", :char "稐"} {:freq 8289, :code "mfal", :char "穨"}], :code "mfal"} {:
+ [{:freq 6309, :code "fdwr", :char "酡"} {:freq 6436, :code "fdwr", :char "酖"}], :code "fdwr"} {:
+ [{:freq 6319, :code "prrs", :char "鉹"} {:freq 8795, :code "prrs", :char "鑱"}], :code "prrs"} {:
+ [{:freq 6336, :code "zmki", :char "妯"} {:freq 10672, :code "zmki", :char "妽"}], :code "zmki"} {:
+ [{:freq 6337, :code "vgq", :char "洧"} {:freq 7346, :code "vgq", :char "漘"}], :code "vgq"} {:
+ [{:freq 6357, :code "ufyi", :char "粑"} {:freq 10109, :code "ufyi", :char "粌"}], :code "ufyi"} {:
+ [{:freq 6369, :code "uomf", :char "煣"} {:freq 9405, :code "uomf", :char "悇"}], :code "uomf"} {:
+ [{:freq 6376, :code "ffds", :char "榑"} {:freq 8600, :code "ffds", :char "槫"}], :code "ffds"} {:
+ [{:freq 6381, :code "bwlq", :char "瞉"} {:freq 10471, :code "bwlq", :char "觳"}], :code "bwlq"} {:
+ [{:freq 6394, :code "txxx", :char "麚"} {:freq 7850, :code "txxx", :char "瘕"}], :code "txxx"} {:
+ [{:freq 6455, :code "oism", :char "徼"} {:freq 9163, :code "oism", :char "徾"}], :code "oism"} {:
+ [{:freq 6490, :code "nbxj", :char "鼯"} {:freq 8036, :code "nbxj", :char "俉"}], :code "nbxj"} {:
+ [{:freq 6496, :code "zmbz", :char "妘"} {:freq 7093, :code "zmbz", :char "婭"} {:freq 10695, :code "zmbz", :char "姱"} {:freq 12137, :code "zmbz", :char "嫮"}], :code "zmbz"} {:
+ [{:freq 6504, :code "llgq", :char "峟"} {:freq 9978, :code "llgq", :char "崤"}], :code "llgq"} {:
+ [{:freq 6515, :code "ffj", :char "栖"} {:freq 9445, :code "ffj", :char "梀"}], :code "ffj"} {:
+ [{:freq 6522, :code "uoor", :char "焌"} {:freq 9502, :code "uoor", :char "惾"}], :code "uoor"} {:
+ [{:freq 6523, :code "lrk", :char "眴"} {:freq 7819, :code "lrk", :char "睧"}], :code "lrk"} {:
+ [{:freq 6533, :code "fkrj", :char "輅"} {:freq 12535, :code "fkrj", :char "軥"}], :code "fkrj"} {:
+ [{:freq 6537, :code "coxj", :char "瑲"} {:freq 12012, :code "coxj", :char "琀"}], :code "coxj"} {:
+ [{:freq 6558, :code "vika", :char "瀣"} {:freq 7670, :code "vika", :char "灗"}], :code "vika"} {:
+ [{:freq 6559, :code "nbog", :char "礜"} {:freq 9840, :code "nbog", :char "礐"}], :code "nbog"} {:
+ [{:freq 6569, :code "fkor", :char "鸉"} {:freq 11052, :code "fkor", :char "輘"}], :code "fkor"} {:
+ [{:freq 6578, :code "sfb", :char "誧"} {:freq 8645, :code "sfb", :char "諲"}], :code "sfb"} {:
+ [{:freq 6579, :code "lkkw", :char "遝"} {:freq 6843, :code "lkkw", :char "罳"}], :code "lkkw"} {:
+ [{:freq 6588, :code "zmso", :char "妏"} {:freq 6615, :code "zmso", :char "嫇"}], :code "zmso"} {:
+ [{:freq 6610, :code "ips", :char "蚸"} {:freq 9479, :code "ips", :char "蛌"}], :code "ips"} {:
+ [{:freq 6611, :code "fzi", :char "蚻"} {:freq 7242, :code "fzi", :char "朻"}], :code "fzi"} {:
+ [{:freq 6614, :code "eflk", :char "莿"} {:freq 12121, :code "eflk", :char "萰"}], :code "eflk"} {:
+ [{:freq 6630, :code "scrh", :char "褭"} {:freq 9713, :code "scrh", :char "諘"}], :code "scrh"} {:
+ [{:freq 6645, :code "xsfr", :char "鶔"} {:freq 12707, :code "xsfr", :char "歠"}], :code "xsfr"} {:
+ [{:freq 6658, :code "lloj", :char "峪"} {:freq 9559, :code "lloj", :char "嵱"}], :code "lloj"} {:
+ [{:freq 6665, :code "zmjj", :char "嫗"} {:freq 7158, :code "zmjj", :char "嬙"}], :code "zmjj"} {:
+ [{:freq 6673, :code "qmbk", :char "狋"} {:freq 10063, :code "qmbk", :char "狟"}], :code "qmbk"} {:
+ [{:freq 6674, :code "ceai", :char "耵"} {:freq 10823, :code "ceai", :char "聇"}], :code "ceai"} {:
+ [{:freq 6687, :code "qmom", :char "猞"} {:freq 7747, :code "qmom", :char "狳"}], :code "qmom"} {:
+ [{:freq 6694, :code "zmqk", :char "媊"} {:freq 6965, :code "zmqk", :char "媮"}], :code "zmqk"} {:
+ [{:freq 6713, :code "pk", :char "鉭"} {:freq 10242, :code "pk", :char "鈤"}], :code "pk"} {:
+ [{:freq 6717, :code "llbz", :char "嶀"} {:freq 12851, :code "llbz", :char "崿"}], :code "llbz"} {:
+ [{:freq 6736, :code "jizf", :char "蹀"} {:freq 12389, :code "jizf", :char "躒"}], :code "jizf"} {:
+ [{:freq 6746, :code "zmrl", :char "嬾"} {:freq 9288, :code "zmrl", :char "纘"}], :code "zmrl"} {:
+ [{:freq 6762, :code "fkgr", :char "軏"} {:freq 7742, :code "fkgr", :char "桄"}], :code "fkgr"} {:
+ [{:freq 6792, :code "jce", :char "哢"} {:freq 9368, :code "jce", :char "咠"} {:freq 10047, :code "jce", :char "咡"}], :code "jce"} {:
+ [{:freq 6805, :code "fhbi", :char "桱"} {:freq 10754, :code "fhbi", :char "栻"}], :code "fhbi"} {:
+ [{:freq 6808, :code "uohb", :char "烴"} {:freq 11408, :code "uohb", :char "烒"}], :code "uohb"} {:
+ [{:freq 6823, :code "uokq", :char "焨"} {:freq 11535, :code "uokq", :char "煟"}], :code "uokq"} {:
+ [{:freq 6846, :code "lrlr", :char "覞"} {:freq 9905, :code "lrlr", :char "矎"}], :code "lrlr"} {:
+ [{:freq 6856, :code "zmjf", :char "嬠"} {:freq 10836, :code "zmjf", :char "媬"}], :code "zmjf"} {:
+ [{:freq 6864, :code "pezf", :char "鍱"} {:freq 9263, :code "pezf", :char "鐷"}], :code "pezf"} {:
+ [{:freq 6873, :code "fveo", :char "霬"} {:freq 12676, :code "fveo", :char "霟"}], :code "fveo"} {:
+ [{:freq 6875, :code "rsjy", :char "鯙"} {:freq 11689, :code "rsjy", :char "郺"}], :code "rsjy"} {:
+ [{:freq 6933, :code "myll", :char "峊"} {:freq 9338, :code "myll", :char "氙"}], :code "myll"} {:
+ [{:freq 6936, :code "zmgq", :char "彖"} {:freq 8863, :code "zmgq", :char "姷"}], :code "zmgq"} {:
+ [{:freq 6944, :code "qvrd", :char "朓"} {:freq 7755, :code "qvrd", :char "脁"}], :code "qvrd"} {:
+ [{:freq 6962, :code "ucrs", :char "羝"} {:freq 11949, :code "ucrs", :char "羑"}], :code "ucrs"} {:
+ [{:freq 6963, :code "irs", :char "蚳"} {:freq 9390, :code "irs", :char "虳"}], :code "irs"} {:
+ [{:freq 6967, :code "gdjr", :char "欹"} {:freq 9898, :code "gdjr", :char "鵸"}], :code "gdjr"} {:
+ [{:freq 6972, :code "wtjd", :char "裀"} {:freq 9207, :code "wtjd", :char "襑"}], :code "wtjd"} {:
+ [{:freq 7002, :code "aerz", :char "鳽"} {:freq 11007, :code "aerz", :char "鳱"}], :code "aerz"} {:
+ [{:freq 7028, :code "pfds", :char "鏄"} {:freq 11754, :code "pfds", :char "鎛"}], :code "pfds"} {:
+ [{:freq 7036, :code "lkkz", :char "黤"} {:freq 11547, :code "lkkz", :char "罨"}], :code "lkkz"} {:
+ [{:freq 7061, :code "dgr", :char "扤"} {:freq 7465, :code "dgr", :char "扰"}], :code "dgr"} {:
+ [{:freq 7067, :code "uoso", :char "炆"} {:freq 7848, :code "uoso", :char "熐"}], :code "uoso"} {:
+ [{:freq 7069, :code "woad", :char "穻"} {:freq 8099, :code "woad", :char "窏"}], :code "woad"} {:
+ [{:freq 7074, :code "urk", :char "恂"} {:freq 7763, :code "urk", :char "惛"} {:freq 9372, :code "urk", :char "恉"}], :code "urk"} {:
+ [{:freq 7081, :code "vwf", :char "浨"} {:freq 12501, :code "vwf", :char "淭"}], :code "vwf"} {:
+ [{:freq 7095, :code "qzor", :char "朘"} {:freq 11448, :code "qzor", :char "脧"}], :code "qzor"} {:
+ [{:freq 7125, :code "voyy", :char "滃"} {:freq 7582, :code "voyy", :char "潝"}], :code "voyy"} {:
+ [{:freq 7152, :code "jior", :char "踜"} {:freq 10992, :code "jior", :char "踆"} {:freq 12421, :code "jior", :char "躨"}], :code "jior"} {:
+ [{:freq 7172, :code "zwfk", :char "縺"} {:freq 11036, :code "zwfk", :char "緷"}], :code "zwfk"} {:
+ [{:freq 7182, :code "ilbu", :char "蟔"} {:freq 10525, :code "ilbu", :char "蠌"}], :code "ilbu"} {:
+ [{:freq 7198, :code "efjj", :char "蘦"} {:freq 7940, :code "efjj", :char "藲"}], :code "efjj"} {:
+ [{:freq 7253, :code "oirs", :char "彽"} {:freq 10636, :code "oirs", :char "彴"}], :code "oirs"} {:
+ [{:freq 7297, :code "fce", :char "梇"} {:freq 10757, :code "fce", :char "栮"}], :code "fce"} {:
+ [{:freq 7300, :code "vkk", :char "淐"} {:freq 11438, :code "vkk", :char "涾"}], :code "vkk"} {:
+ [{:freq 7307, :code "pbz", :char "釫"} {:freq 9146, :code "pbz", :char "錏"}], :code "pbz"} {:
+ [{:freq 7314, :code "arkz", :char "殗"} {:freq 12460, :code "arkz", :char "姴"}], :code "arkz"} {:
+ [{:freq 7317, :code "ggoo", :char "硤"} {:freq 11095, :code "ggoo", :char "磢"}], :code "ggoo"} {:
+ [{:freq 7318, :code "edry", :char "菢"} {:freq 10045, :code "edry", :char "勀"}], :code "edry"} {:
+ [{:freq 7323, :code "bdgy", :char "剺"} {:freq 12905, :code "bdgy", :char "孷"}], :code "bdgy"} {:
+ [{:freq 7327, :code "uowl", :char "煸"} {:freq 11144, :code "uowl", :char "覮"}], :code "uowl"} {:
+ [{:freq 7340, :code "hmqz", :char "嫛"} {:freq 7392, :code "hmqz", :char "繄"}], :code "hmqz"} {:
+ [{:freq 7341, :code "llyn", :char "嶍"} {:freq 12446, :code "llyn", :char "岪"}], :code "llyn"} {:
+ [{:freq 7418, :code "synl", :char "齍"} {:freq 7969, :code "synl", :char "齎"}], :code "synl"} {:
+ [{:freq 7448, :code "pfky", :char "鄱"} {:freq 12578, :code "pfky", :char "勫"}], :code "pfky"} {:
+ [{:freq 7460, :code "zmzm", :char "奻"} {:freq 12470, :code "zmzm", :char "娭"} {:freq 12596, :code "zmzm", :char "緌"}], :code "zmzm"} {:
+ [{:freq 7469, :code "nzj", :char "侞"} {:freq 8833, :code "nzj", :char "佁"}], :code "nzj"} {:
+ [{:freq 7506, :code "pyji", :char "舯"} {:freq 11210, :code "pyji", :char "鏹"}], :code "pyji"} {:
+ [{:freq 7521, :code "wtwr", :char "袉"} {:freq 10778, :code "wtwr", :char "衴"}], :code "wtwr"} {:
+ [{:freq 7522, :code "wtrj", :char "袧"} {:freq 9539, :code "wtrj", :char "袼"}], :code "wtrj"} {:
+ [{:freq 7544, :code "lzzy", :char "郻"} {:freq 7750, :code "lzzy", :char "眑"}], :code "lzzy"} {:
+ [{:freq 7556, :code "suys", :char "瓿"} {:freq 9755, :code "suys", :char "甋"}], :code "suys"} {:
+ [{:freq 7566, :code "llwl", :char "嵽"} {:freq 8964, :code "llwl", :char "崹"} {:freq 10566, :code "llwl", :char "巋"}], :code "llwl"} {:
+ [{:freq 7586, :code "zufd", :char "緧"} {:freq 8690, :code "zufd", :char "繜"}], :code "zufd"} {:
+ [{:freq 7594, :code "jiaj", :char "踦"} {:freq 8163, :code "jiaj", :char "跲"}], :code "jiaj"} {:
+ [{:freq 7646, :code "rnc", :char "鯓"} {:freq 13032, :code "rnc", :char "鰉"}], :code "rnc"} {:
+ [{:freq 7676, :code "qmcm", :char "玁"} {:freq 9004, :code "qmcm", :char "獉"}], :code "qmcm"} {:
+ [{:freq 7679, :code "fdjj", :char "醽"} {:freq 10506, :code "fdjj", :char "醧"}], :code "fdjj"} {:
+ [{:freq 7682, :code "iaib", :char "羋"} {:freq 11603, :code "iaib", :char "蝆"}], :code "iaib"} {:
+ [{:freq 7685, :code "snrh", :char "裒"} {:freq 9143, :code "snrh", :char "褢"}], :code "snrh"} {:
+ [{:freq 7686, :code "srj", :char "詻"} {:freq 10283, :code "srj", :char "詺"}], :code "srj"} {:
+ [{:freq 7692, :code "nirr", :char "鯈"} {:freq 8021, :code "nirr", :char "佌"}], :code "nirr"} {:
+ [{:freq 7760, :code "bld", :char "堈"} {:freq 10019, :code "bld", :char "坰"} {:freq 11930, :code "bld", :char "垌"}], :code "bld"} {:
+ [{:freq 7785, :code "fkmh", :char "軞"} {:freq 13029, :code "fkmh", :char "轙"}], :code "fkmh"} {:
+ [{:freq 7790, :code "zmgj", :char "婼"} {:freq 10306, :code "zmgj", :char "嫟"}], :code "zmgj"} {:
+ [{:freq 7796, :code "xsml", :char "矞"} {:freq 9637, :code "xsml", :char "瞀"}], :code "xsml"} {:
+ [{:freq 7839, :code "tgym", :char "廒"} {:freq 8220, :code "tgym", :char "廨"}], :code "tgym"} {:
+ [{:freq 7846, :code "vffb", :char "漜"} {:freq 9753, :code "vffb", :char "澿"}], :code "vffb"} {:
+ [{:freq 7860, :code "mfxr", :char "馜"} {:freq 10766, :code "mfxr", :char "秜"}], :code "mfxr"} {:
+ [{:freq 7885, :code "dezf", :char "擛"} {:freq 8114, :code "dezf", :char "揲"}], :code "dezf"} {:
+ [{:freq 7897, :code "chkk", :char "髷"} {:freq 12713, :code "chkk", :char "镽"}], :code "chkk"} {:
+ [{:freq 7920, :code "arkr", :char "鴷"} {:freq 8683, :code "arkr", :char "鮤"}], :code "arkr"} {:
+ [{:freq 7930, :code "eers", :char "鞫"} {:freq 11510, :code "eers", :char "靮"}], :code "eers"} {:
+ [{:freq 7932, :code "cuom", :char "騇"} {:freq 12680, :code "cuom", :char "駼"}], :code "cuom"} {:
+ [{:freq 7935, :code "fkkk", :char "櫑"} {:freq 9271, :code "fkkk", :char "轠"} {:freq 9892, :code "fkkk", :char "轑"}], :code "fkkk"} {:
+ [{:freq 7939, :code "xmsz", :char "繴"} {:freq 11071, :code "xmsz", :char "嬖"}], :code "xmsz"} {:
+ [{:freq 7963, :code "edqr", :char "鶦"} {:freq 8316, :code "edqr", :char "鶘"}], :code "edqr"} {:
+ [{:freq 7979, :code "eezu", :char "韅"} {:freq 9312, :code "eezu", :char "韉"}], :code "eezu"} {:
+ [{:freq 7992, :code "like", :char "幛"} {:freq 9072, :code "like", :char "幝"}], :code "like"} {:
+ [{:freq 8004, :code "llys", :char "屻"} {:freq 12241, :code "llys", :char "嶭"}], :code "llys"} {:
+ [{:freq 8027, :code "llxi", :char "岥"} {:freq 12665, :code "llxi", :char "嶷"} {:freq 12828, :code "llxi", :char "崨"}], :code "llxi"} {:
+ [{:freq 8038, :code "grgy", :char "卼"} {:freq 10153, :code "grgy", :char "硊"}], :code "grgy"} {:
+ [{:freq 8046, :code "fez", :char "枻"} {:freq 8535, :code "fez", :char "椹"}], :code "fez"} {:
+ [{:freq 8068, :code "qmor", :char "狻"} {:freq 8127, :code "qmor", :char "猣"} {:freq 11836, :code "qmor", :char "獿"}], :code "qmor"} {:
+ [{:freq 8087, :code "llkz", :char "崦"} {:freq 9035, :code "llkz", :char "嶁"}], :code "llkz"} {:
+ [{:freq 8134, :code "odll", :char "嵞"} {:freq 9987, :code "odll", :char "仚"}], :code "odll"} {:
+ [{:freq 8149, :code "mfys", :char "瓾"} {:freq 10323, :code "mfys", :char "甃"} {:freq 11233, :code "mfys", :char "籈"}], :code "mfys"} {:
+ [{:freq 8164, :code "pyaj", :char "鉰"} {:freq 8647, :code "pyaj", :char "錒"} {:freq 8947, :code "pyaj", :char "舸"}], :code "pyaj"} {:
+ [{:freq 8206, :code "wolo", :char "窴"} {:freq 10767, :code "wolo", :char "窉"}], :code "wolo"} {:
+ [{:freq 8208, :code "pykl", :char "艒"} {:freq 8327, :code "pykl", :char "艫"}], :code "pykl"} {:
+ [{:freq 8212, :code "jiek", :char "踖"} {:freq 12759, :code "jiek", :char "躤"}], :code "jiek"} {:
+ [{:freq 8219, :code "llkr", :char "嶱"} {:freq 10187, :code "llkr", :char "嵑"}], :code "llkr"} {:
+ [{:freq 8239, :code "odky", :char "鄶"} {:freq 12085, :code "odky", :char "鄃"}], :code "odky"} {:
+ [{:freq 8251, :code "fkqf", :char "檕"} {:freq 12362, :code "fkqf", :char "轚"}], :code "fkqf"} {:
+ [{:freq 8279, :code "pned", :char "鎨"} {:freq 8648, :code "pned", :char "錍"}], :code "pned"} {:
+ [{:freq 8287, :code "lwkl", :char "矉"} {:freq 9958, :code "lwkl", :char "髕"}], :code "lwkl"} {:
+ [{:freq 8312, :code "oxju", :char "饐"} {:freq 12230, :code "oxju", :char "餖"}], :code "oxju"} {:
+ [{:freq 8343, :code "wtel", :char "襺"} {:freq 9144, :code "wtel", :char "褯"}], :code "wtel"} {:
+ [{:freq 8350, :code "vmlk", :char "洫"} {:freq 10804, :code "vmlk", :char "淛"}], :code "vmlk"} {:
+ [{:freq 8359, :code "lkir", :char "歜"} {:freq 8793, :code "lkir", :char "鸀"}], :code "lkir"} {:
+ [{:freq 8361, :code "rllr", :char "觼"} {:freq 9676, :code "rllr", :char "敻"}], :code "rllr"} {:
+ [{:freq 8362, :code "zi", :char "屮"} {:freq 10630, :code "zi", :char "凵"} {:freq 12761, :code "zi", :char "丱"}], :code "zi"} {:
+ [{:freq 8363, :code "rsyy", :char "夗"} {:freq 12071, :code "rsyy", :char "翗"}], :code "rsyy"} {:
+ [{:freq 8377, :code "cez", :char "耴"} {:freq 12805, :code "cez", :char "玴"}], :code "cez"} {:
+ [{:freq 8383, :code "zmmf", :char "姀"} {:freq 10837, :code "zmmf", :char "媃"}], :code "zmmf"} {:
+ [{:freq 8417, :code "gqs", :char "砃"} {:freq 11363, :code "gqs", :char "豖"}], :code "gqs"} {:
+ [{:freq 8419, :code "qzzi", :char "胐"} {:freq 12801, :code "qzzi", :char "朏"}], :code "qzzi"} {:
+ [{:freq 8457, :code "tgor", :char "庱"} {:freq 12352, :code "tgor", :char "鶊"}], :code "tgor"} {:
+ [{:freq 8475, :code "efk", :char "莗"} {:freq 10876, :code "efk", :char "菄"}], :code "efk"} {:
+ [{:freq 8482, :code "fjmw", :char "覂"} {:freq 9719, :code "fjmw", :char "遫"}], :code "fjmw"} {:
+ [{:freq 8485, :code "uouy", :char "郯"} {:freq 10149, :code "uouy", :char "焍"}], :code "uouy"} {:
+ [{:freq 8512, :code "zmko", :char "絑"} {:freq 10355, :code "zmko", :char "嫹"}], :code "zmko"} {:
+ [{:freq 8522, :code "fklg", :char "軮"} {:freq 11686, :code "fklg", :char "輲"}], :code "fklg"} {:
+ [{:freq 8529, :code "llxj", :char "嵢"} {:freq 8995, :code "llxj", :char "嵣"} {:freq 11399, :code "llxj", :char "峿"} {:freq 12812, :code "llxj", :char "峮"}], :code "llxj"} {:
+ [{:freq 8574, :code "efds", :char "蒪"} {:freq 12629, :code "efds", :char "蓴"}], :code "efds"} {:
+ [{:freq 8586, :code "pzj", :char "銣"} {:freq 9024, :code "pzj", :char "鈶"}], :code "pzj"} {:
+ [{:freq 8611, :code "ebqs", :char "蓺"} {:freq 9702, :code "ebqs", :char "蓻"}], :code "ebqs"} {:
+ [{:freq 8621, :code "phbi", :char "鋞"} {:freq 9063, :code "phbi", :char "鉽"}], :code "phbi"} {:
+ [{:freq 8628, :code "zmsm", :char "嬓"} {:freq 12238, :code "zmsm", :char "嬔"}], :code "zmsm"} {:
+ [{:freq 8638, :code "mblo", :char "篢"} {:freq 10206, :code "mblo", :char "犋"}], :code "mblo"} {:
+ [{:freq 8655, :code "rrj", :char "鮈"} {:freq 11152, :code "rrj", :char "鮥"}], :code "rrj"} {:
+ [{:freq 8659, :code "nbok", :char "澩"} {:freq 10947, :code "nbok", :char "僣"}], :code "nbok"} {:
+ [{:freq 8674, :code "pxxx", :char "鍜"} {:freq 10441, :code "pxxx", :char "錣"}], :code "pxxx"} {:
+ [{:freq 8686, :code "uojd", :char "燽"} {:freq 11086, :code "uojd", :char "燖"}], :code "uojd"} {:
+ [{:freq 8726, :code "eeaj", :char "鞳"} {:freq 11650, :code "eeaj", :char "鞈"}], :code "eeaj"} {:
+ [{:freq 8730, :code "xsxr", :char "鵽"} {:freq 10852, :code "xsxr", :char "欼"}], :code "xsxr"} {:
+ [{:freq 8735, :code "ufml", :char "糮"} {:freq 12644, :code "ufml", :char "糒"}], :code "ufml"} {:
+ [{:freq 8780, :code "nbgs", :char "鼵"} {:freq 12392, :code "nbgs", :char "鼳"} {:freq 12683, :code "nbgs", :char "鼣"}], :code "nbgs"} {:
+ [{:freq 8802, :code "jdbu", :char "圉"} {:freq 11070, :code "jdbu", :char "圛"}], :code "jdbu"} {:
+ [{:freq 8818, :code "eemf", :char "鞣"} {:freq 12169, :code "eemf", :char "鞂"}], :code "eemf"} {:
+ [{:freq 8864, :code "zmnj", :char "姠"} {:freq 9556, :code "zmnj", :char "媿"}], :code "zmnj"} {:
+ [{:freq 8906, :code "mflk", :char "盉"} {:freq 9199, :code "mflk", :char "簠"}], :code "mflk"} {:
+ [{:freq 8910, :code "womy", :char "窌"} {:freq 9133, :code "womy", :char "窷"}], :code "womy"} {:
+ [{:freq 8949, :code "elym", :char "莇"} {:freq 9609, :code "elym", :char "勩"}], :code "elym"} {:
+ [{:freq 8951, :code "wtop", :char "袗"} {:freq 9812, :code "wtop", :char "襂"}], :code "wtop"} {:
+ [{:freq 8976, :code "uojy", :char "焞"} {:freq 12190, :code "uojy", :char "熩"}], :code "uojy"} {:
+ [{:freq 8981, :code "pyeo", :char "舼"} {:freq 9250, :code "pyeo", :char "鐉"}], :code "pyeo"} {:
+ [{:freq 8982, :code "efpd", :char "菥"} {:freq 12205, :code "efpd", :char "蔪"}], :code "efpd"} {:
+ [{:freq 9001, :code "llgr", :char "歂"} {:freq 11890, :code "llgr", :char "屼"}], :code "llgr"} {:
+ [{:freq 9010, :code "mfjm", :char "稛"} {:freq 9051, :code "mfjm", :char "稦"}], :code "mfjm"} {:
+ [{:freq 9015, :code "eeyy", :char "葧"} {:freq 13031, :code "eeyy", :char "鞹"}], :code "eeyy"} {:
+ [{:freq 9081, :code "fyyn", :char "槢"} {:freq 9310, :code "fyyn", :char "櫂"}], :code "fyyn"} {:
+ [{:freq 9082, :code "fgoo", :char "樉"} {:freq 12499, :code "fgoo", :char "梜"}], :code "fgoo"} {:
+ [{:freq 9108, :code "cuyj", :char "駋"} {:freq 9822, :code "cuyj", :char "駶"}], :code "cuyj"} {:
+ [{:freq 9174, :code "earo", :char "薚"} {:freq 11720, :code "earo", :char "薞"}], :code "earo"} {:
+ [{:freq 9187, :code "cuae", :char "駻"} {:freq 11563, :code "cuae", :char "馯"}], :code "cuae"} {:
+ [{:freq 9196, :code "uoml", :char "爁"} {:freq 10764, :code "uoml", :char "烅"} {:freq 11087, :code "uoml", :char "燏"}], :code "uoml"} {:
+ [{:freq 9230, :code "ewjr", :char "藗"} {:freq 10495, :code "ewjr", :char "薳"}], :code "ewjr"} {:
+ [{:freq 9240, :code "sjke", :char "嚲"} {:freq 12711, :code "sjke", :char "譂"}], :code "sjke"} {:
+ [{:freq 9266, :code "chkg", :char "鬕"} {:freq 11284, :code "chkg", :char "鬞"}], :code "chkg"} {:
+ [{:freq 9280, :code "cujc", :char "驖"} {:freq 12377, :code "cujc", :char "騹"}], :code "cujc"} {:
+ [{:freq 9282, :code "nbzg", :char "鼷"} {:freq 9864, :code "nbzg", :char "鼫"}], :code "nbzg"} {:
+ [{:freq 9304, :code "wtbj", :char "裯"} {:freq 9537, :code "wtbj", :char "袺"}], :code "wtbj"} {:
+ [{:freq 9305, :code "vyeo", :char "潠"} {:freq 12358, :code "vyeo", :char "瀷"}], :code "vyeo"} {:
+ [{:freq 9327, :code "nez", :char "伳"} {:freq 9431, :code "nez", :char "偡"}], :code "nez"} {:
+ [{:freq 9336, :code "uosx", :char "忴"} {:freq 12010, :code "uosx", :char "烺"}], :code "uosx"} {:
+ [{:freq 9353, :code "frtd", :char "枃"} {:freq 11939, :code "frtd", :char "柊"}], :code "frtd"} {:
+ [{:freq 9433, :code "nufd", :char "偤"} {:freq 9606, :code "nufd", :char "僔"}], :code "nufd"} {:
+ [{:freq 9439, :code "zmjk", :char "婛"} {:freq 12036, :code "zmjk", :char "媔"}], :code "zmjk"} {:
+ [{:freq 9460, :code "uoby", :char "烶"} {:freq 11534, :code "uoby", :char "煡"}], :code "uoby"} {:
+ [{:freq 9498, :code "zmlg", :char "媏"} {:freq 11190, :code "zmlg", :char "嬽"} {:freq 11347, :code "zmlg", :char "姎"}], :code "zmlg"} {:
+ [{:freq 9503, :code "uwbk", :char "愃"} {:freq 10135, :code "uwbk", :char "悰"}], :code "uwbk"} {:
+ [{:freq 9532, :code "eszr", :char "萒"} {:freq 11954, :code "eszr", :char "茺"}], :code "eszr"} {:
+ [{:freq 9533, :code "euuo", :char "菼"} {:freq 12158, :code "euuo", :char "蓔"}], :code "euuo"} {:
+ [{:freq 9553, :code "llqk", :char "剻"} {:freq 10839, :code "llqk", :char "崳"}], :code "llqk"} {:
+ [{:freq 9557, :code "pyqz", :char "媻"} {:freq 10424, :code "pyqz", :char "縏"}], :code "pyqz"} {:
+ [{:freq 9574, :code "bwjq", :char "嗀"} {:freq 12874, :code "bwjq", :char "嗀"}], :code "bwjq"} {:
+ [{:freq 9615, :code "llkk", :char "嶆"} {:freq 10358, :code "llkk", :char "嶚"}], :code "llkk"} {:
+ [{:freq 9657, :code "wtoo", :char "裲"} {:freq 11554, :code "wtoo", :char "裌"} {:freq 13015, :code "wtoo", :char "襝"}], :code "wtoo"} {:
+ [{:freq 9658, :code "jimz", :char "踇"} {:freq 9716, :code "jimz", :char "踒"}], :code "jimz"} {:
+ [{:freq 9670, :code "bufd", :char "墫"} {:freq 11010, :code "bufd", :char "壿"}], :code "bufd"} {:
+ [{:freq 9744, :code "qskb", :char "朣"} {:freq 9766, :code "qskb", :char "膧"}], :code "qskb"} {:
+ [{:freq 9777, :code "pwbk", :char "錝"} {:freq 11731, :code "pwbk", :char "鍹"}], :code "pwbk"} {:
+ [{:freq 9786, :code "wdxi", :char "寲"} {:freq 11998, :code "wdxi", :char "寁"}], :code "wdxi"} {:
+ [{:freq 9819, :code "fvsx", :char "霠"} {:freq 11693, :code "fvsx", :char "霒"}], :code "fvsx"} {:
+ [{:freq 9895, :code "cuqk", :char "騚"} {:freq 12108, :code "cuqk", :char "瑐"}], :code "cuqk"} {:
+ [{:freq 9901, :code "frmf", :char "櫯"} {:freq 10315, :code "frmf", :char "榤"}], :code "frmf"} {:
+ [{:freq 9907, :code "zmbu", :char "纁"} {:freq 12824, :code "zmbu", :char "婞"}], :code "zmbu"} {:
+ [{:freq 9915, :code "cuyy", :char "騸"} {:freq 9932, :code "cuyy", :char "驏"}], :code "cuyy"} {:
+ [{:freq 9920, :code "jirm", :char "躌"} {:freq 12343, :code "jirm", :char "蹸"}], :code "jirm"} {:
+ [{:freq 9933, :code "chlk", :char "鬙"} {:freq 11285, :code "chlk", :char "鬠"}], :code "chlk"} {:
+ [{:freq 9936, :code "gdor", :char "鷞"} {:freq 11759, :code "gdor", :char "鵊"}], :code "gdor"} {:
+ [{:freq 9938, :code "folz", :char "麶"} {:freq 11128, :code "folz", :char "檎"}], :code "folz"} {:
+ [{:freq 9989, :code "wdai", :char "宁"} {:freq 12038, :code "wdai", :char "寔"}], :code "wdai"} {:
+ [{:freq 10049, :code "zmbj", :char "姞"} {:freq 10793, :code "zmbj", :char "婤"}], :code "zmbj"} {:
+ [{:freq 10096, :code "uogq", :char "烠"} {:freq 12839, :code "uogq", :char "烼"}], :code "uogq"} {:
+ [{:freq 10134, :code "llej", :char "崮"} {:freq 11348, :code "llej", :char "岵"} {:freq 12827, :code "llej", :char "崌"}], :code "llej"} {:
+ [{:freq 10174, :code "ppd", :char "釤"} {:freq 11507, :code "ppd", :char "釿"}], :code "ppd"} {:
+ [{:freq 10180, :code "jjjl", :char "喦"} {:freq 12039, :code "jjjl", :char "嵒"}], :code "jjjl"} {:
+ [{:freq 10188, :code "lllk", :char "崱"} {:freq 10357, :code "lllk", :char "嶒"} {:freq 11073, :code "lllk", :char "嶵"}], :code "lllk"} {:
+ [{:freq 10189, :code "idxw", :char "惄"} {:freq 10830, :code "idxw", :char "逌"}], :code "idxw"} {:
+ [{:freq 10197, :code "ffoo", :char "棶"} {:freq 10614, :code "ffoo", :char "欞"}], :code "ffoo"} {:
+ [{:freq 10238, :code "fkrs", :char "軧"} {:freq 12270, :code "fkrs", :char "輷"}], :code "fkrs"} {:
+ [{:freq 10240, :code "wdyw", :char "逭"} {:freq 10841, :code "wdyw", :char "惌"} {:freq 12854, :code "wdyw", :char "悹"}], :code "wdyw"} {:
+ [{:freq 10285, :code "boqf", :char "趓"} {:freq 11624, :code "boqf", :char "槷"}], :code "boqf"} {:
+ [{:freq 10307, :code "llop", :char "嵺"} {:freq 11571, :code "llop", :char "嵾"}], :code "llop"} {:
+ [{:freq 10308, :code "lljn", :char "嶉"} {:freq 11249, :code "lljn", :char "巏"}], :code "lljn"} {:
+ [{:freq 10371, :code "uoys", :char "甇"} {:freq 12616, :code "uoys", :char "熤"}], :code "uoys"} {:
+ [{:freq 10418, :code "lwko", :char "瞚"} {:freq 12991, :code "lwko", :char "骾"}], :code "lwko"} {:
+ [{:freq 10420, :code "mff", :char "篥"} {:freq 12595, :code "mff", :char "箖"}], :code "mff"} {:
+ [{:freq 10463, :code "ytwf", :char "翴"} {:freq 12200, :code "ytwf", :char "翬"}], :code "ytwf"} {:
+ [{:freq 10494, :code "qmbu", :char "臐"} {:freq 11708, :code "qmbu", :char "獯"}], :code "qmbu"} {:
+ [{:freq 10505, :code "fdfb", :char "醥"} {:freq 12923, :code "fdfb", :char "酺"}], :code "fdfb"} {:
+ [{:freq 10510, :code "llnl", :char "雟"} {:freq 11756, :code "llnl", :char "巂"}], :code "llnl"} {:
+ [{:freq 10541, :code "fskr", :char "櫰"} {:freq 10964, :code "fskr", :char "榱"} {:freq 12183, :code "fskr", :char "樈"}], :code "fskr"} {:
+ [{:freq 10565, :code "zmnl", :char "孈"} {:freq 11428, :code "zmnl", :char "婂"}], :code "zmnl"} {:
+ [{:freq 10578, :code "wtan", :char "襫"} {:freq 12533, :code "wtan", :char "袹"} {:freq 12723, :code "wtan", :char "襣"}], :code "wtan"} {:
+ [{:freq 10581, :code "edor", :char "鷏"} {:freq 11832, :code "edor", :char "鶾"}], :code "edor"} {:
+ [{:freq 10587, :code "oims", :char "讆"} {:freq 11334, :code "oims", :char "彶"}], :code "oims"} {:
+ [{:freq 10588, :code "jiob", :char "躔"} {:freq 12222, :code "jiob", :char "踛"}], :code "jiob"} {:
+ [{:freq 10608, :code "curu", :char "驠"} {:freq 11872, :code "curu", :char "驧"}], :code "curu"} {:
+ [{:freq 10631, :code "gg", :char "厂"} {:freq 11979, :code "gg", :char "砳"}], :code "gg"} {:
+ [{:freq 10670, :code "zmrj", :char "姁"} {:freq 12459, :code "zmrj", :char "姳"}], :code "zmrj"} {:
+ [{:freq 10733, :code "ymko", :char "陎"} {:freq 12435, :code "ymko", :char "尕"}], :code "ymko"} {:
+ [{:freq 10762, :code "uobb", :char "烓"} {:freq 10922, :code "uobb", :char "煃"}], :code "uobb"} {:
+ [{:freq 10785, :code "nlgl", :char "偳"} {:freq 12242, :code "nlgl", :char "嶴"}], :code "nlgl"} {:
+ [{:freq 10834, :code "eeai", :char "靪"} {:freq 11184, :code "eeai", :char "鞮"}], :code "eeai"} {:
+ [{:freq 10849, :code "xsxm", :char "敪"} {:freq 12057, :code "xsxm", :char "毲"}], :code "xsxm"} {:
+ [{:freq 10883, :code "jiez", :char "跇"} {:freq 12268, :code "jiez", :char "踸"}], :code "jiez"} {:
+ [{:freq 10905, :code "zmcm", :char "嫀"} {:freq 12752, :code "zmcm", :char "孍"}], :code "zmcm"} {:
+ [{:freq 10923, :code "ffki", :char "榃"} {:freq 11706, :code "ffki", :char "檑"}], :code "ffki"} {:
+ [{:freq 11047, :code "wtwf", :char "褌"} {:freq 12985, :code "wtwf", :char "褳"}], :code "wtwf"} {:
+ [{:freq 11053, :code "fkkf", :char "輠"} {:freq 12330, :code "fkkf", :char "轈"}], :code "fkkf"} {:
+ [{:freq 11134, :code "pywl", :char "艜"} {:freq 12203, :code "pywl", :char "艑"}], :code "pywl"} {:
+ [{:freq 11180, :code "xdyy", :char "闒"} {:freq 12367, :code "xdyy", :char "闟"}], :code "xdyy"} {:
+ [{:freq 11208, :code "fkel", :char "轒"} {:freq 11688, :code "fkel", :char "輴"}], :code "fkel"} {:
+ [{:freq 11237, :code "fkkr", :char "轕"} {:freq 11685, :code "fkkr", :char "輵"} {:freq 11687, :code "fkkr", :char "輹"}], :code "fkkr"} {:
+ [{:freq 11254, :code "wtjg", :char "襭"} {:freq 13002, :code "wtjg", :char "襐"}], :code "wtjg"} {:
+ [{:freq 11339, :code "qpd", :char "肜"} {:freq 11359, :code "qpd", :char "肵"}], :code "qpd"} {:
+ [{:freq 11361, :code "egxs", :char "苃"} {:freq 11953, :code "egxs", :char "茇"}], :code "egxs"} {:
+ [{:freq 11407, :code "uomh", :char "烢"} {:freq 12288, :code "uomh", :char "燨"}], :code "uomh"} {:
+ [{:freq 11630, :code "uoxl", :char "熥"} {:freq 12886, :code "uoxl", :char "煝"}], :code "uoxl"} {:
+ [{:freq 11643, :code "ihlr", :char "覤"} {:freq 11874, :code "ihlr", :char "鸕"}], :code "ihlr"} {:
+ [{:freq 11678, :code "uoez", :char "罃"} {:freq 12105, :code "uoez", :char "煁"}], :code "uoez"} {:
+ [{:freq 11795, :code "mfmr", :char "鯬"} {:freq 12356, :code "mfmr", :char "鵹"}], :code "mfmr"} {:
+ [{:freq 11886, :code "mym", :char "氕"} {:freq 12453, :code "mym", :char "竻"}], :code "mym"} {:
+ [{:freq 11936, :code "idix", :char "敁"} {:freq 12473, :code "idix", :char "敊"}], :code "idix"} {:
+ [{:freq 11947, :code "ufds", :char "籿"} {:freq 12909, :code "ufds", :char "慱"}], :code "ufds"} {:
+ [{:freq 11968, :code "fby", :char "桏"} {:freq 12490, :code "fby", :char "郙"}], :code "fby"} {:
+ [{:freq 11994, :code "jike", :char "啅"} {:freq 12942, :code "jike", :char "踔"}], :code "jike"} {:
+ [{:freq 12052, :code "fxxx", :char "棳"} {:freq 12547, :code "fxxx", :char "椵"}], :code "fxxx"} {:
+ [{:freq 12257, :code "mfop", :char "穇"} {:freq 12429, :code "mfop", :char "穋"}], :code "mfop"} {:
+ [{:freq 12317, :code "vbmq", :char "瀔"} {:freq 12667, :code "vbmq", :char "濲"}], :code "vbmq"} {:
+ [{:freq 12433, :code "llym", :char "屴"} {:freq 12947, :code "llym", :char "嶰"}], :code "llym"} {:
+ [{:freq 12661, :code "culd", :char "駧"} {:freq 12945, :code "culd", :char "駉"}], :code "culd"} {:
+ [{:freq 12769, :code "llro", :char "岉"} {:freq 12852, :code "llro", :char "崵"}], :code "llro"})
