@@ -17,8 +17,8 @@
 (def test2 (getIDSmap "rawFiles/ids.txt"))
 
 (println (count test2))
-(println (take-last 10 test2))
-(println (get test2 "煃"))
+(println (take-last 50 test2))
+(println (get test2 "煃") )
 
 
 
