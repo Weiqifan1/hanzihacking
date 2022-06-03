@@ -1,8 +1,9 @@
-(ns hanzihacking.zhengMaCleanedCharacterLists)
+(ns hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists)
 (require '[clojure.string :as str])
 (require '[clojure.java.io :as io])
 (require '[com.rpl.specter :as sp])
 (require '[clojure.data.json :as json])
+
 
 (defn getFromTzai
   [pathStr]

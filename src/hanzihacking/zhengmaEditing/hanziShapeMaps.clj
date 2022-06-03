@@ -1,9 +1,9 @@
-(ns hanzihacking.hanziShapeMaps)
+(ns hanzihacking.zhengmaEditing.hanziShapeMaps)
 (require '[clojure.string :as str])
 (require '[clojure.java.io :as io])
 (require '[com.rpl.specter :as sp])
 (require '[clojure.data.json :as json])
-(require '[hanzihacking.zhengMaCleanedCharacterLists :refer [getVectorsWithCollisions tzaiSet]])
+(require '[hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists :refer [getVectorsWithCollisions tzaiSet]])
 
 (defn hello [x] (println x))
 
