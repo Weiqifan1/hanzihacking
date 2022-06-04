@@ -4,37 +4,10 @@
 (require '[com.rpl.specter :as sp])
 (require '[clojure.data.json :as json])
 (require '[hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists :refer [getVectorsWithCollisions tzaiSet getFromTzai getVectorsWithCollisions2]])
-(require '[hanzihacking.zhengmaEditing.hanziShapeMaps :refer [hello getIDSdata getIDSmap smallCollisions getCollFromIndex]])
-;(require '[hanzihacking.arrayEditing.genTzaiJundaFromArr :refer [getFromArray]])
-;;getIDSdata
+(require '[hanzihacking.zhengmaEditing.hanziShapeMaps :refer [hello getIDSdata getIDSmap getAllIdsLine
+                                                              smallCollisions getCollFromIndex
+                                                              getIdsElmsFromChar zmWithExactCharFromLetter zmWithExactCodeFromChar]])
 
-
-
-;(println (map #(getCollFromIndex %) (range 10)))
-;(println (get test2 "車"))
-
-(def idsData (map #(vec (drop 1 %)) (getIDSdata "rawFiles/ids.txt")))
-;(println (count idsData))
-;(println (count idsData))
-;(println (take 30 idsData))
-
-(defn getAllIdsLine [idsChar] (vec (map #(get % 1) (filter #(= (get % 0) idsChar) idsData))))
-(println (getAllIdsLine  "車"))
-
-;Jeg vil lave en map der har alle elementer i zhengma kortet
-(defn allCodesWithChar [zmchar] (filter #(.contains (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
-(println (count (allCodesWithChar "a")))
-(println (take 5 (allCodesWithChar "a")))
-(defn zmWithExactCharFromLetter [zmchar] (filter #(= (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
-(defn zmWithExactCodeFromChar [zmchar] (filter #(= (get % 0) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
-;(defn zmWithMotherCharFromComponent [component] (filter #(get % ) test2))
-;(println (take 5 test2))
-
-(defn getIdsElmsFromChar [x]
-  (map #(vector (get % 0)
-                (get % 1)
-                (get % 2)
-                (getAllIdsLine (get % 1))) (allCodesWithChar x)))
 (println (count (getIdsElmsFromChar "co")))
 (println (take 51 (getIdsElmsFromChar "co")))
 
