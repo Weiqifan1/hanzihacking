@@ -4,7 +4,21 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+Key datastructures that can be imported:
+
+hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists
+(getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt"))
+count; 13387
+examples; ([1 的 nkrs] [2 是 kaii] [3 不 gi] [4 我 mdhm]
+
+hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists
+(getVectorsWithCollisions2 "simpelCharFiles/zhenmaTzai13060noSpace.txt")
+count: 1057
+examples: ([[6846 覞 lrlr] [9905 矎 lrlr]] [[6215 鴩 mbor] [12411 犪 mbor]] [[837 母 zy] [6293 毌 zy]]
+
+...............sortedByTheSecondSmallesFrequencyNumber: ([[121 名 rsj] [178 各 rsj]] [[320 任 nmb] [377 件 nmb]] [[480 運 wwfk] [499 軍 wwfk]]...(def smallCollisions (vec (sort-by #(bigdec (get (get % 1) 0)) (getVectorsWithCollisions2 "simpelCharFiles/zhenmaTzai13060noSpace.txt"))))
+
+
 
 ## License
 

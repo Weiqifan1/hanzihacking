@@ -34,3 +34,15 @@
                (filter
                  #(< 1 (count (nth % 1)))
                  (group-by #(nth % 2) tradChar)))))
+
+
+(defn noDublicates2 [charVecVector]
+  (< 1 (count (set (map #(nth % 1) charVecVector))))
+  )
+(defn getVectorsWithCollisions2 [x]
+  (let [tradChar (getFromTzai x)]
+    (filter #(noDublicates2 %)                                ;
+            (map #(nth % 1)                                   ;;;;;;
+                 (filter
+                   #(< 1 (count (nth % 1)))
+                   (group-by #(nth % 2) tradChar))))))

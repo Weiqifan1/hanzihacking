@@ -3,42 +3,14 @@
 (require '[clojure.java.io :as io])
 (require '[com.rpl.specter :as sp])
 (require '[clojure.data.json :as json])
-(require '[hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists :refer [getVectorsWithCollisions tzaiSet getFromTzai]])
+(require '[hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists :refer [getVectorsWithCollisions tzaiSet getFromTzai getVectorsWithCollisions2]])
 (require '[hanzihacking.zhengmaEditing.hanziShapeMaps :refer [hello getIDSdata getIDSmap]])
 ;(require '[hanzihacking.arrayEditing.genTzaiJundaFromArr :refer [getFromArray]])
 ;;getIDSdata
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; zhengma vecors (1057) with colliions)
-;;(def vecorsWithCollisions (getVectorsWithCollisions "simpelCharFiles/zhenmaTzai13060noSpace.txt"))
-;;(def vecorsWithCollisions (apply concat (getVectorsWithCollisions "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
-;;(def vecorsWithCollisions (sort-by #(get (get % 1) 0) (getVectorsWithCollisions "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
-;;(println (count vecorsWithCollisions))
-;;(println (take 6 vecorsWithCollisions))
-;;;;;;;;;;;;;;;;;;;;;;;
 
-;
-;
-;;;;;;;;;;;;;;;;;;;;;;;; zhengma code ;;;;;;;;;;;;;;;;
-
-
-;filter #(contains? simpleTzaiSet (get % 1))
-
-;;;;;;;;;;;;array end
-(def test1 (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt"))
-;(println (count test1))
-;(println (take 20)   )
-
-(defn noDublicates2 [charVecVector]
-  (< 1 (count (set (map #(nth % 1) charVecVector))))
-  )
 (def tradChar2 (take 9000 (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
-(defn getVectorsWithCollisions2 [x]
-  (let [tradChar (getFromTzai x)])
-  (filter #(noDublicates2 %)                                ;
-          (map #(nth % 1)                                   ;;;;;;
-               (filter
-                 #(< 1 (count (nth % 1)))
-                 (group-by #(nth % 2) test1)))))
+
 
 (def test3 (getVectorsWithCollisions2 "simpelCharFiles/zhenmaTzai13060noSpace.txt"))
 ;(println (count test3))
@@ -68,11 +40,11 @@
 ;(println (getAllIdsLine  "車"))
 
 ;Jeg vil lave en map der har alle elementer i zhengma kortet
-(defn allCodesWithChar [zmchar] (filter #(.contains (get % 2) zmchar) test1))
+(defn allCodesWithChar [zmchar] (filter #(.contains (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
 (println (count (allCodesWithChar "a")))
 (println (take 5 (allCodesWithChar "a")))
-(defn zmWithExactCharFromLetter [zmchar] (filter #(= (get % 2) zmchar) test1))
-(defn zmWithExactCodeFromChar [zmchar] (filter #(= (get % 0) zmchar) test1))
+(defn zmWithExactCharFromLetter [zmchar] (filter #(= (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
+(defn zmWithExactCodeFromChar [zmchar] (filter #(= (get % 0) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
 ;(defn zmWithMotherCharFromComponent [component] (filter #(get % ) test2))
 (println (take 5 test2))
 
