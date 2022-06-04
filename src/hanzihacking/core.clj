@@ -9,8 +9,10 @@
                                                               getIdsElmsFromChar zmWithExactCharFromLetter zmWithExactCodeFromChar]])
 
 
-(println (getAllIdsLine "門"))
-(println (zmWithExactCodeFromChar "門"))
+;(println (getAllIdsLine "門"))
+;(println (zmWithExactCodeFromChar "門"))
+(println (take 5 (getIdsElmsFromChar "co")))
+(println (zmWithExactCharFromLetter "co"))
 
 ;; legend: P (primary) S (secondary) O (other) 1 (first code) 2 (second Code) 3 (third code)
 (def zmA {"一" "1Pa" "丁" "2Pai"})
