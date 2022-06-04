@@ -4,32 +4,14 @@
 (require '[com.rpl.specter :as sp])
 (require '[clojure.data.json :as json])
 (require '[hanzihacking.zhengmaEditing.zhengMaCleanedCharacterLists :refer [getVectorsWithCollisions tzaiSet getFromTzai getVectorsWithCollisions2]])
-(require '[hanzihacking.zhengmaEditing.hanziShapeMaps :refer [hello getIDSdata getIDSmap]])
+(require '[hanzihacking.zhengmaEditing.hanziShapeMaps :refer [hello getIDSdata getIDSmap smallCollisions getCollFromIndex]])
 ;(require '[hanzihacking.arrayEditing.genTzaiJundaFromArr :refer [getFromArray]])
 ;;getIDSdata
 
 
-(def tradChar2 (take 9000 (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
 
-
-(def test3 (getVectorsWithCollisions2 "simpelCharFiles/zhenmaTzai13060noSpace.txt"))
-;(println (count test3))
-;(println (take 6 test3))
-
-(def smallCollisions (vec (sort-by #(bigdec (get (get % 1) 0)) test3)))
-;(println (count smallCollisions))
-;(println (take 6 smallCollisions))
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(def test2 (getIDSmap "rawFiles/ids.txt"))
-;(println (count test2))
-;(println (take-last 50 test2))
-;(println (get test2 "煃") )
-
-(defn getCollFromIndex [x] (get test2 (get (get (vec (apply concat smallCollisions)) x) 1)))
-
-(println (map #(getCollFromIndex %) (range 10)))
-(println (get test2 "車"))
+;(println (map #(getCollFromIndex %) (range 10)))
+;(println (get test2 "車"))
 
 (def idsData (map #(vec (drop 1 %)) (getIDSdata "rawFiles/ids.txt")))
 ;(println (count idsData))
@@ -37,7 +19,7 @@
 ;(println (take 30 idsData))
 
 (defn getAllIdsLine [idsChar] (vec (map #(get % 1) (filter #(= (get % 0) idsChar) idsData))))
-;(println (getAllIdsLine  "車"))
+(println (getAllIdsLine  "車"))
 
 ;Jeg vil lave en map der har alle elementer i zhengma kortet
 (defn allCodesWithChar [zmchar] (filter #(.contains (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
@@ -46,7 +28,7 @@
 (defn zmWithExactCharFromLetter [zmchar] (filter #(= (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
 (defn zmWithExactCodeFromChar [zmchar] (filter #(= (get % 0) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
 ;(defn zmWithMotherCharFromComponent [component] (filter #(get % ) test2))
-(println (take 5 test2))
+;(println (take 5 test2))
 
 (defn getIdsElmsFromChar [x]
   (map #(vector (get % 0)
