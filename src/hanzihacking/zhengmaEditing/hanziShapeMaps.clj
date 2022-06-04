@@ -31,3 +31,16 @@
                 (get % 1)
                 (get % 2)
                 (getAllIdsLine (get % 1))) (allCodesWithChar x)))
+
+(defn getExactIdElmFromChars [x] (filter #(= (get % 2) x) (getIdsElmsFromChar x)))
+
+
+(defn elemCodeHasLetterAtIndex [stringOfText letterStr position]
+   (= position (str/index-of stringOfText letterStr)))
+
+(defn elemCodeIsLongEnoughAndHasLetter [collStrAtIdx2 letterStr position]
+  (and (<= (+ 1 position) (count (get collStrAtIdx2 2)))
+       (elemCodeHasLetterAtIndex (get collStrAtIdx2 2) letterStr position)))
+
+(defn getIdElemsWithStrInPosition [letter positionIndex]
+  (filter #(elemCodeIsLongEnoughAndHasLetter % letter positionIndex) (getIdsElmsFromChar letter)))
