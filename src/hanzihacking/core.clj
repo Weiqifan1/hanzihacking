@@ -8,12 +8,7 @@
                                                               smallCollisions getCollFromIndex
                                                               getIdsElmsFromChar zmWithExactCharFromLetter zmWithExactCodeFromChar]])
 
-(println (count (getIdsElmsFromChar "co")))
-(println (take 51 (getIdsElmsFromChar "co")))
 
-(println (zmWithExactCharFromLetter "co"))
-(println (zmWithExactCharFromLetter "ca"))
-(println (zmWithExactCharFromLetter "cd"))
 (println (getAllIdsLine "門"))
 (println (zmWithExactCodeFromChar "門"))
 

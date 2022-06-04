@@ -25,7 +25,7 @@
 (defn getAllIdsLine [idsChar] (vec (map #(get % 1) (filter #(= (get % 0) idsChar) idsData))))
 (defn allCodesWithChar [zmchar] (filter #(.contains (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
 (defn zmWithExactCharFromLetter [zmchar] (filter #(= (get % 2) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
-(defn zmWithExactCodeFromChar [zmchar] (filter #(= (get % 0) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
+(defn zmWithExactCodeFromChar [zmchar] (filter #(= (get % 1) zmchar) (getFromTzai "simpelCharFiles/zhenmaTzai13060noSpace.txt")))
 (defn getIdsElmsFromChar [x]
   (map #(vector (get % 0)
                 (get % 1)
