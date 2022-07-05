@@ -12,10 +12,25 @@
 ;(println (getAllIdsLine "門"))
 ;(println (zmWithExactCodeFromChar "門"))
 
-(def strToSearch "gq")
-(println (take 50 (getIdsElmsFromChar strToSearch)))
-(println (zmWithExactCharFromLetter strToSearch))
-(println (getExactIdElmFromChars strToSearch))
+(defn prinAllStrings [strToSearch]
+  (->>
+    (println (take 100 (getIdsElmsFromChar strToSearch)))
+    (println (zmWithExactCharFromLetter strToSearch))
+    (println (getExactIdElmFromChars strToSearch))
+    ))
+(prinAllStrings "hd")
+;(prinAllStrings "hdzi")
+;(prinAllStrings "mhd")
+;(prinAllStrings "hdyd")
+(prinAllStrings "hs")
+;(prinAllStrings "hx")
+
+;帚 帚捃疌
+(println (zmWithExactCodeFromChar "巠"))
+;(println (zmWithExactCodeFromChar "乇"))
+;(println (zmWithExactCodeFromChar "切"))
+;(println (zmWithExactCodeFromChar "疌"))
+
 ;(println (getIdElemsWithStrInPosition "d" 2))
 ;(println (getIdsElmsFromChar strToSearch))
 
@@ -46,5 +61,13 @@
           "而" "2Pgl"
           "豕" "2Pgq" "𧰨" "2Sgq" ;1 2Sgq mising
           })
+(def zmH {
+          "匚" "1Ph", "臣" "1Sh", "一⿰𠄌⿺乀丿" "1Sh" ;[150 長 cha [⿳④一⿰𠄌⿺乀丿]]  ;2 1Sh element mangler (ligner 臣 men 口 i midten) og (ligner spejlvent 彐)
+          ,"七" "2Phd", "" "2Phd",
+          "⿻丿𡳾" "2Phd 2Pzi", ;[3043 屯 hdzi [⿻丿𡳾]]
+          "巠" "2Phd 2Pbi", "弋" "2Phs" ;1 2Shd mising, looks like 弋 with a mising dot.
+          })
+
+
 
 ;壴   "丰" "2Sci"
