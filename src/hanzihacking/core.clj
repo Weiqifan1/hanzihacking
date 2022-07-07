@@ -9,31 +9,6 @@
                                                               getIdsElmsFromChar zmWithExactCharFromLetter zmWithExactCodeFromChar]])
 
 
-;(println (getAllIdsLine "門"))
-;(println (zmWithExactCodeFromChar "門"))
-
-(defn prinAllStrings [strToSearch]
-  (->>
-    (println (take 100 (getIdsElmsFromChar strToSearch)))
-    (println (zmWithExactCharFromLetter strToSearch))
-    (println (getExactIdElmFromChars strToSearch))
-    ))
-(prinAllStrings "hd")
-;(prinAllStrings "hdzi")
-;(prinAllStrings "mhd")
-;(prinAllStrings "hdyd")
-(prinAllStrings "hs")
-;(prinAllStrings "hx")
-
-;帚 帚捃疌
-(println (zmWithExactCodeFromChar "巠"))
-;(println (zmWithExactCodeFromChar "乇"))
-;(println (zmWithExactCodeFromChar "切"))
-;(println (zmWithExactCodeFromChar "疌"))
-
-;(println (getIdElemsWithStrInPosition "d" 2))
-;(println (getIdsElmsFromChar strToSearch))
-
 ;; legend: P (primary) S (secondary) T (tertiary/not in ZM chart) ... 1 (first code) 2 (second Code) 3 (third code)
 (def zmA {"一" "1Pa" "丁" "2Pai"})
 (def zmB {"土" "1Pb" "士" "1Sb"
@@ -65,9 +40,39 @@
           "匚" "1Ph", "臣" "1Sh", "一⿰𠄌⿺乀丿" "1Sh" ;[150 長 cha [⿳④一⿰𠄌⿺乀丿]]  ;2 1Sh element mangler (ligner 臣 men 口 i midten) og (ligner spejlvent 彐)
           ,"七" "2Phd", "" "2Phd",
           "⿻丿𡳾" "2Phd 2Pzi", ;[3043 屯 hdzi [⿻丿𡳾]]
-          "巠" "2Phd 2Pbi", "弋" "2Phs" ;1 2Shd mising, looks like 弋 with a mising dot.
+          "巠" "2Phd 2Pbi", "弋" "2Phs",;1 2Shd mising, looks like 弋 with a mising dot.
+          "戈" "2Phm", "戊" "2Shm",  ;1 2Shm missing. looks like 戈 without dot.
+          ;2 missing 2Shm looks like 戈 with 2 or 3 vertical strokes.
+          ;1 2Phe missing. simplified form of car/vehicle
+          "牙" "2Phi", "至" "2Phb"
           })
+(def zmI {
+          "" "",
+          })
+;(println (getAllIdsLine "門"))
+;(println (zmWithExactCodeFromChar "門"))
 
+(defn prinAllStrings [strToSearch]
+  (->>
+    (println (take 100 (getIdsElmsFromChar strToSearch)));(getIdsElmsFromChar strToSearch));(take 100 (getIdsElmsFromChar strToSearch)))
+    (println (zmWithExactCharFromLetter strToSearch))
+    (println (getExactIdElmFromChars strToSearch))
+    ))
+(prinAllStrings "i")
+;(prinAllStrings "hdzi")
+;(prinAllStrings "mhd")
+;(prinAllStrings "hdyd")
+;(prinAllStrings "hs")
+;(prinAllStrings "hx")
+
+;帚 帚捃疌
+;(println (zmWithExactCodeFromChar "巠"))
+;(println (zmWithExactCodeFromChar "乇"))
+;(println (zmWithExactCodeFromChar "切"))
+;(println (zmWithExactCodeFromChar "疌"))
+
+;(println (getIdElemsWithStrInPosition "d" 2))
+;(println (getIdsElmsFromChar strToSearch))
 
 
 ;壴   "丰" "2Sci"
