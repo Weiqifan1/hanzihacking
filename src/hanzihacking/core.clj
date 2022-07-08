@@ -47,18 +47,47 @@
           "牙" "2Phi", "至" "2Phb"
           })
 (def zmI {
-          "" "",
+          "虫" "1Pi", "卜" "2Pid", "乍" "2Pma 2Sid",
+          "虍" "2Pih", "虎" "2Sih", "止" "2Pii", "龰" "2Sii",
+          "齒" "2Sio" ;1 2Pio missing. simplified form of 齒
           })
+(def zmJ {
+          "口" "1Pj", "囗" "2Pjd", "因" "2Sjd",
+          "足" "2Pji", "𧾷" "2Sji"
+          })
+(def zmK {
+          "日" "1Pk", "曰" "1Sk", "⿻口一" "1Sk", ;the middle part of 衰
+          "刂" "2Pkd", "业" "2Pku", "業" "2Sku", "婁" "2Pkj 2Pzm",
+          "非" "2Pkc", "小" "2Pko", "⺌" "2Sko", "𣥂" "2Sko",
+          "水" "2Pkv", "氺" "2Skv", "㡀" "2Skv 2Pld", "眔" "2Plk 2Skv",
+          "田" "2Pki", "由" "2Pkia", "甲" "2Pkib", "申" "2Pkic"
+          })
+(def zmL {
+          "目" "1Pl", "冂" "2Pld", "同" "2Sld", "𠔼" "2Sld", "冋" "2Sld", "冏" "2Sld", "⿵冂𢆉" "2Sld",
+          "用" "2Sld", "甬" "2Sxs 2Sld", "角" "1Sr 2Sld", "𠕁" "2Sld", "岡" "2Sld",
+          "巾" "2Pli", "山" "2Pll", "罒" "2Plk", "四" "2Slk", "曾" "2Pud 2Slk 1Pk", "會" "1Pod 1Ps 2Slk 1Pk",
+          ;1 2Plk missing. looks like middle 曾 without the middle stroke
+          "皿" "2Plka", "且" "2Plc", "⿴且一" "2Slc",
+          "貝" "2Slo", "咼" "2Plj", "見" "2Slr", "骨" "2Plw"
+          })
+(def zmM {
+          "竹" "1Pm", "⿱𠂉丶" "1Sm", "舌" "2Pmi", "𠂉" "2Pma", "矢" "2Sma",
+          "攵" "2Pmo", "牛" "2Pmb", "失" "2Smb 2Pod", "𠂒" "2Smb", "㐄" "2Smb",
+          "气" "2Pmy", "氣" "2Smy", "毛" "2Pmh", "禾" "2Pmf", "余" "2Pod 2Smf", "生" "2Pmc",
+          "" ""
+          })
+;龰
 ;(println (getAllIdsLine "門"))
-;(println (zmWithExactCodeFromChar "門"))
+(println (zmWithExactCodeFromChar "舛"))
+(println (zmWithExactCharFromLetter "mc"))
 
 (defn prinAllStrings [strToSearch]
   (->>
-    (println (take 100 (getIdsElmsFromChar strToSearch)));(getIdsElmsFromChar strToSearch));(take 100 (getIdsElmsFromChar strToSearch)))
+    (println (take 300 (getIdsElmsFromChar strToSearch)));(getIdsElmsFromChar strToSearch));(take 100 (getIdsElmsFromChar strToSearch)))
     (println (zmWithExactCharFromLetter strToSearch))
     (println (getExactIdElmFromChars strToSearch))
     ))
-(prinAllStrings "i")
+(prinAllStrings "mc")
 ;(prinAllStrings "hdzi")
 ;(prinAllStrings "mhd")
 ;(prinAllStrings "hdyd")
