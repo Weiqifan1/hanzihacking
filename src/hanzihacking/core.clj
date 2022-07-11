@@ -74,28 +74,37 @@
           "竹" "1Pm", "⿱𠂉丶" "1Sm", "舌" "2Pmi", "𠂉" "2Pma", "矢" "2Sma",
           "攵" "2Pmo", "牛" "2Pmb", "失" "2Smb 2Pod", "𠂒" "2Smb", "㐄" "2Smb",
           "气" "2Pmy", "氣" "2Smy", "毛" "2Pmh", "禾" "2Pmf", "余" "2Pod 2Smf", "生" "2Pmc",
-          "" ""
+          "手" "2Pmd", "龵" "2Smd", "千" "2Pme"
           })
-;龰
-;(println (getAllIdsLine "門"))
-(println (zmWithExactCodeFromChar "舛"))
+(def zmN {
+          "亻" "1Pn", "片" "2Pnx", ; [2323 鼎 lznx [⿶⑧目]] lower left side, code: "2Snx",
+          "川" "2Pnd", "⿰丿丨" "2Snd", ; 2Snd missing, looks like 丿丨+二
+          "𣶒" "2Snd", "㐬" "2Psh 2Snd",
+          "臼" "2Pnb", "臼丨" "2Snb", "與" "2Snb 1Po", "𦥯" "2Snb 2Pos 2Pos", "𦥑冖" "2Snb",
+          "" "2Pnj"
+          })
+
+;龰22
+;from file (switch) file (switch) (getAllIdsLine "門"))
+(println (zmWithExactCodeFromChar "流"))
 (println (zmWithExactCharFromLetter "mc"))
 
 (defn prinAllStrings [strToSearch]
   (->>
-    (println (take 300 (getIdsElmsFromChar strToSearch)));(getIdsElmsFromChar strToSearch));(take 100 (getIdsElmsFromChar strToSearch)))
+    (println (take 600 (getIdsElmsFromChar strToSearch)));(getIdsElmsFromChar strToSearch));(take 100 (getIdsElmsFromChar strToSearch)))
     (println (zmWithExactCharFromLetter strToSearch))
     (println (getExactIdElmFromChars strToSearch))
     ))
-(prinAllStrings "mc")
+(prinAllStrings "nb")
+
 ;(prinAllStrings "hdzi")
 ;(prinAllStrings "mhd")
-;(prinAllStrings "hdyd")
+;(t verticallyprinAllStrings "hdyd")
 ;(prinAllStrings "hs")
 ;(prinAllStrings "hx")
 
 ;帚 帚捃疌
-;(println (zmWithExactCodeFromChar "巠"))
+;(pplitintln (zmWithExactCodeFplitomChar "巠"))
 ;(println (zmWithExactCodeFromChar "乇"))
 ;(println (zmWithExactCodeFromChar "切"))
 ;(println (zmWithExactCodeFromChar "疌"))
