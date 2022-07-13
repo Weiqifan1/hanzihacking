@@ -81,12 +81,35 @@
           "川" "2Pnd", "⿰丿丨" "2Snd", ; 2Snd missing, looks like 丿丨+二
           "𣶒" "2Snd", "㐬" "2Psh 2Snd",
           "臼" "2Pnb", "臼丨" "2Snb", "與" "2Snb 1Po", "𦥯" "2Snb 2Pos 2Pos", "𦥑冖" "2Snb",
-          "" "2Pnj"
+          "鬼" "2Pnj", "⿻白丿" "2Snj", "⿱丿囗" "2Snj",
+          "白" "2Pnk", "自" "2Pnl", "⿱丿冂" "2Snl", "隹" "2Pni", "身" "2Pnc"
+          })
+(def zmO {
+          "八" "1Po", "⿱丿丿" "2Pod", "人" "2Pod",
+          "入" "2Poda", "乂" "2Pos", "㐅" "2Pos", "⿻⿱丿丿丶" "2Sos",
+          "𠚍" "2Sos 2Pzi", "彳" "2Poi", "行" "2Soi",
+          "食" "2Pox", "飠" "2Sox"
+          })
+(def zmP {
+          "金" "1Pp", "彡" "2Ppd", "斤" "2Ppd", "𠂆" "2Spd",
+          "丘" "2Ppda", "豸" "2Ppq", "瓜" "2Pps",
+          "釆" "2Pps", "采" "2Pps",
+          "爪" "2Ppv", "爫" "2Spv", "舟" "2Ppy" ; 2Ppy missing. looks like 舟 without the inside
+          })
+(def zmQ {
+          "月" "1Pq", "丹" "1Sq 1Ss",
+          "几" "2Pqd", "巩" "2Pbi 2Sqd",
+          "凡" "2Pqda", "風" "2Pqi", "九" "2Pqy", "丸" "2Pqya",
+          "殳" "2Pqx", "犭" "2Pqm"
+          })
+(def zmR {
+          "𠂊" "1Sr", "角" "1Sr 1Sl 1Pd", "𩵋" "1Sr 2Pgd", "魚" "1Sr",
+          "儿" "2Prd",
           })
 
 ;龰22
 ;from file (switch) file (switch) (getAllIdsLine "門"))
-(println (zmWithExactCodeFromChar "流"))
+(println (zmWithExactCodeFromChar "\uD867\uDD4B亍"))
 (println (zmWithExactCharFromLetter "mc"))
 
 (defn prinAllStrings [strToSearch]
@@ -95,7 +118,7 @@
     (println (zmWithExactCharFromLetter strToSearch))
     (println (getExactIdElmFromChars strToSearch))
     ))
-(prinAllStrings "nb")
+(prinAllStrings "rd")
 
 ;(prinAllStrings "hdzi")
 ;(prinAllStrings "mhd")
