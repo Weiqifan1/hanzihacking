@@ -104,13 +104,48 @@
           })
 (def zmR {
           "𠂊" "1Sr", "角" "1Sr 1Sl 1Pd", "𩵋" "1Sr 2Pgd", "魚" "1Sr",
-          "儿" "2Prd",
+          "儿" "2Prd", "匕" "2Prr", "比" "2Prr 2Prr", "𠤎" "2Srr",
+          "勹" "2Pry", "包" "2Sry", "匃" "2Sry",
+          "夕" "2Prs", "夂" "2Srs", "⿴𠂊⺀" "2Srs", ;2 2Srs mangler: en der ligner 夂, og en der ligner 夕+夂 ;"" "2Srs",
+          "氏" "2Prh", "𠂎" "2Srh", "卬" "2Srh 1Sy", "𧘇" "2Srh", ;2 mangler
+          "欠" "2Pro",
+          "鳥" "2Srz", "島" "2Srz 2Pll",
+          "烏" "2Srza"
           })
+(def zmS {
+          "言" "1Ps", "亠" "1Ss", ; mangler sk"" "2Psk",
+          "文" "2Pso", "亡" "2Psh", "立" "2Psu", "辛" "2Pse", "方" "2Psy", "永" "2Psk",
+          "龍" "2Psi"
+          })
+(def zmT {
+          "疒" "1Pt", "病" "1St",
+          "冫" "2Ptd", "⺀" "2Std",
+          ;2Pti mangler
+          "北" "2Sti 2Prr",
+          "广" "2Ptg", "廣" "2Stg",
+          "鹿" "2Ptx", "⿸广⿻コ⿰丨丨" "2Stx"
+          })
+(def zmU {
+          "忄" "1Pu",
+          })
+
+
+(def zmY {
+          "阝" "1Py", ; 3 mangler"" "1Sy",
+          "了" "1Py", "刀" "2Pyd",
+          "乙" "2Pyda", "⺄" "2Syda",
+          "也" "2Pyi", "巴" "2Pyia",
+          "子" "2Pya", "力" "2Pym", ; missing"⿻丿𠃌" "2Sym"
+          "己" "2Pyy", "已" "2Pyya", "巳" "2Pyyb",
+          "弓" "2Pyz", "𢎨" "2Syz",
+          "习" "2Pyt"
+          })
+
 
 ;龰22
 ;from file (switch) file (switch) (getAllIdsLine "門"))
 (println (zmWithExactCodeFromChar "\uD867\uDD4B亍"))
-(println (zmWithExactCharFromLetter "mc"))
+(println (zmWithExactCharFromLetter "ta"))
 
 (defn prinAllStrings [strToSearch]
   (->>
@@ -118,7 +153,7 @@
     (println (zmWithExactCharFromLetter strToSearch))
     (println (getExactIdElmFromChars strToSearch))
     ))
-(prinAllStrings "rd")
+(prinAllStrings "u")
 
 ;(prinAllStrings "hdzi")
 ;(prinAllStrings "mhd")
